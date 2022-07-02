@@ -12,6 +12,5 @@ Abstract: Firms increasingly utilize AI to assist or replace human tasks. Howeve
 
 - Winner for the Best Interdisciplinary Paper Award Strategic Human Capital in the SMS 2021
 - Media Cover: MIT IDE Blog, State of AI Report 2021, The Chosun Ilbo (Leading Korean Daily Newspaper)
-
-Credited to Ethan Mollick. This paper has gained more than 5,000 likes and 1,500 retweets.
-<img src="/assets/images/JMP_Twitter_by_Ethan.PNG" width="300" height="400" style="float:none">
+- This paper has gained more than 5,000 likes and 1,500 retweets. Credited to Ethan Mollick. 
+<img src="/assets/images/JMP_Twitter_by_Ethan.PNG" width="300" height="400">
