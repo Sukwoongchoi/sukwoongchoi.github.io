@@ -14,6 +14,6 @@ Abstract: Firms increasingly utilize AI to assist or replace human tasks. Howeve
 - Media Cover: MIT IDE Blog, State of AI Report 2021, The Chosun Ilbo (Leading Korean Daily Newspaper)
 - This paper has gained more than 5,000 likes and 1,500 retweets. Credited to Ethan Mollick.
  
-<img src="/assets/images/JMP_Twitter_by_Ethan.PNG" width="300" height="400" >{:class="align-center"} 
+<img src="/assets/images/JMP_Twitter_by_Ethan1.PNG" width="300" height="400" >{:class="align-center"} 
 
 
