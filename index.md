@@ -12,5 +12,5 @@ I am Sukwoong Choi, a postdoctoral scholar at the MIT Sloan School of Management
 
 <br />
 <img src="/assets/images/MIT_CSAIL.png" width="200" height="110" style="float:right">
-<img src="/assets/images/MIT-IDE_Logo2.png" width="200" height="110" style="float:right">
+<img src="/assets/images/MIT-IDE_Logo2.png" width="200"  style="float:right">
 <img src="/assets/images/MIT_Logo.png" width="200" height="110" style="float:right">
