@@ -10,5 +10,4 @@ I am Sukwoong Choi, a postdoctoral scholar at the MIT Sloan School’s Initiativ
 + I am on the market this year (2022-2023).
 
 <br />
-<img src="/assets/images/MIT_Logo.png" width="200" style="float:right">
-<img src="/assets/images/MIT_CSAIL.png" width="200" style="float:right">
+<img src="/assets/images/MIT_Logo.png" width="200" style="float:right"> <img src="/assets/images/MIT_CSAIL.png" width="200" style="float:right">
