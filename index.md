@@ -11,6 +11,6 @@ I am Sukwoong Choi, a postdoctoral scholar at the MIT Sloan School of Management
 + I received my PhD from KAIST College of Business. During my PhD, I was a visiting PhD student at the University of California, Berkeley (Haas School of Business, Management of Organizations (MORS)) and Northwestern University (Kellogg School of Management, MORS and NICO (Northwestern Institute on Complex Systems)).
 
 <br />
-<img src="/assets/images/MIT_CSAIL.png" width="200" height="110" style="float:right">
+<img src="/assets/images/MIT_CSAIL.png" width="200" height="120" style="float:right">
 <img src="/assets/images/MIT-IDE_Logo2.png" width="200"  style="float:right">
 <img src="/assets/images/MIT_Logo.png" width="200" height="110" style="float:right">
