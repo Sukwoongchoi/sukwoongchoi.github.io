@@ -7,7 +7,7 @@ main:
   #- title: "About"
   #  url: /about/
   - title: "Research"
-    url: /research/research.md
+    url: /research/
   - title: "CV"
     url: "https://sukwoongchoi.github.io/assets/docs/CV_updated.pdf"
   #- title: "Certificates"
