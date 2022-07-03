@@ -286,7 +286,7 @@ defaults:
       share: true
       related: true
 # HK
- titles_from_headings:
+titles_from_headings:
   enabled: false
   strip: true
 
