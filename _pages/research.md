@@ -19,7 +19,7 @@ permalink: /research/
  
 - Winner for the Best Interdisciplinary Paper Award Strategic Human Capital in the SMS 2021
 - Media Cover: MIT IDE Blog, State of AI Report 2021, The Chosun Ilbo (Leading Korean Daily Newspaper)
-- This paper has gained more than 5,000 likes and 1,000 retweets. Credited to <a href="https://twitter.com/emollick/status/1508651631151362050" class="btn btn--info btn--small">Ethan Mollick</a>.
+- This paper has gained more than 5,000 likes and 1,000 retweets. Credited to <a href="https://twitter.com/emollick/status/1508651631151362050">Ethan Mollick</a>.
 
 <figure class="align-center">
   <img src="/assets/images/JMP_Twitter_by_Ethan1.PNG" width="200" height="300">
