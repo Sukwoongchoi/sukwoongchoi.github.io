@@ -2,8 +2,11 @@
 title: 
 layout: single
 classes: wide
-author_profile: true
+author_profile: false
 permalink: /research/
+sidebar:
+  title: "Research"
+  nav: sidebar-research
 ---
 
 ## Working papers
