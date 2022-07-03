@@ -6,8 +6,8 @@ main:
     url: /index.html
   #- title: "About"
   #  url: /about/
-  #- title: "Research"
-  #  url: /research/
+  - title: "Research"
+    url: /research/
   - title: "CV"
     url: "https://sukwoongchoi.github.io/assets/docs/CV_updated.pdf"
   #- title: "Certificates"
