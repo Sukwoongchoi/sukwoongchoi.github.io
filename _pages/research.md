@@ -2,16 +2,12 @@
 title: 
 layout: single
 classes: wide
-author_profile: false
+author_profile: true
 permalink: /research/
-sidebar:
-  title: "Research"
-  nav: sidebar-research
-
 ---
 
 ## Job Market Paper
-**How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program**
+**How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with N. Kim, J. Kim, and H. Kang) 
 
 <details>
   <summary>Abstract</summary>
