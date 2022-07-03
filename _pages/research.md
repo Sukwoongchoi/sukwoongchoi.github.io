@@ -7,8 +7,8 @@ permalink: /research/
 ---
 
 ## Working papers
-**How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program**. 
-Under Review. 2022. (with N. Kim, J. Kim, and H. Kang)
+**How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program**  
+(with N. Kim, J. Kim, and H. Kang) Under Review. 2022.
 
 <details>
   <summary>Abstract</summary>
@@ -25,8 +25,8 @@ Paper Link:
 <a href="/assets/papers/JMP_GO.pdf">PDF</a></span>
 
 
-**It Ain’t Over ‘Til It’s Over: Post-IPO VC Ownership Effect on Innovation-Enhancing Investment of Newly Public Firms**. 
-Revise and Resubmit. 2022. (with T. Kim and H. Woo) 
+**It Ain’t Over ‘Til It’s Over: Post-IPO VC Ownership Effect on Innovation-Enhancing Investment of Newly Public Firms**  
+(with T. Kim and H. Woo) Revise and Resubmit. 2022.
 
 <details>
   <summary>Abstract</summary>
