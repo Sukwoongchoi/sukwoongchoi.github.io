@@ -6,7 +6,7 @@ author_profile: true
 permalink: /research/
 ---
 
-## Job Market Paper
+## Working papers
 **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with N. Kim, J. Kim, and H. Kang) 
 
 <details>
