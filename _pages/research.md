@@ -14,7 +14,7 @@ Abstract: Firms increasingly utilize AI to assist or replace human tasks. Howeve
 - This paper has gained more than 5,000 likes and 1,000 retweets. Credited to Ethan Mollick.
 
 <figure class="align-center">
-  <img src="/assets/images/JMP_Twitter_by_Ethan1.PNG" width="100" height="200">
+  <img src="/assets/images/JMP_Twitter_by_Ethan1.PNG" width="300" height="400">
   <figcaption> Link: https://twitter.com/emollick/status/1508651631151362050 </figcaption>
 </figure>
 
