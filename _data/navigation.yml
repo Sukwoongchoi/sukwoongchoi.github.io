@@ -10,9 +10,12 @@ main:
     url: /research/
   - title: "CV"
     url: "https://sukwoongchoi.github.io/assets/docs/CV_updated.pdf"
-  #- title: "Certificates"
-  #  url: /certificates/
-  #- title: "Achievements"
-  #  url: /achievements/
-  #- title: "Archive"
-  #  url: /year-archive/
+
+# Research sidebar
+sidebar-research:
+  #- title: "Publications"
+  #  url: /research/#publications
+  - title: "Working Papers"
+    url: /research/#working-papers
+  #- title: "Works-in-progress"
+  #  url: /research/#works-in-progress
