@@ -17,7 +17,7 @@ permalink: /research/
 
 - <a href="https://www.strategicmanagement.net/ig-strategic-human-capital/past-awards">Winner</a> for the Best Interdisciplinary Paper Award Strategic Human Capital in the SMS 2021
 - Media Cover: <a href="https://medium.com/mit-initiative-on-the-digital-economy/how-ai-can-improve-human-decision-making-f70964659aae">MIT IDE Blog</a>, <a href="https://docs.google.com/presentation/d/1bwJDRC777rAf00Drthi9yT2c9b0MabWO5ZlksfvFzx8/edit#slide=id.gedaf89a37f_1_0">State of AI Report 2021</a>, <a href="https://www.chosun.com/sports/sports_general/2021/10/26/7TN3Y4MZCZCVNAQSCDRAXT7SJI/">The Chosun Ilbo</a> (Leading Korean Daily Newspaper)
-- Twitter: This paper has gained more than 5,000 likes and 1,000 retweets. Credited to <a href="https://twitter.com/emollick/status/1508651631151362050">Ethan Mollick</a>.
+- Twitter: This paper has gained more than 5,000 likes and 1,000 retweets. Credits to <a href="https://twitter.com/emollick/status/1508651631151362050">Ethan Mollick</a>.
 
 Paper Link:
 <span style="float:center"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893835">SSRN</a>
