@@ -1,5 +1,7 @@
 ---
+
 permalink: /research/
+classes: wide
 title: "Research"
 layout: Research
 
