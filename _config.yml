@@ -287,8 +287,8 @@ defaults:
       related: true
 # HK
 # titles_from_headings:
-#  enabled: false
-#  strip: true
+  enabled: false
+  strip: true
 
   # _pages
   - scope:
