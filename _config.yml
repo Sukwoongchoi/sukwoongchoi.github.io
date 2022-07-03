@@ -286,6 +286,14 @@ defaults:
       share: true
       related: true
 # HK
-titles_from_headings:
-  enabled: false
-  strip: true
+# titles_from_headings:
+#  enabled: false
+#  strip: true
+
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
