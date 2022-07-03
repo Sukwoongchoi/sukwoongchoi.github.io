@@ -1,10 +1,9 @@
 ---
-
 permalink: /research/
 classes: wide
 title: "Research"
-layout: Research
-
+layout: home
+author_profile: true
 ---
 
 ### Job Market Paper: How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program
