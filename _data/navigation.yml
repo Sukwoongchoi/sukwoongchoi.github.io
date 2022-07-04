@@ -15,12 +15,12 @@ main:
 
 # Research sidebar
 sidebar-research:
-  #- title: "Publications"
-  #  url: /research/#publications
   - title: "Working Papers"
     url: /research/#working-papers
-  #- title: "Works-in-progress"
-  #  url: /research/#works-in-progress
+  - title: "Publications"
+    url: /research/#publications  
+  - title: "Work-in-progress"
+    url: /research/#work-in-progress
   
 # Teaching sidebar
 sidebar-teaching:
