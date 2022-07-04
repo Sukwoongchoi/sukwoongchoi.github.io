@@ -16,17 +16,17 @@ main:
 # Research sidebar
 sidebar-research:
   #- title: "Publications"
-  #  url: /research/##publications
+  #  url: /research/#publications
   - title: "Working Papers"
-    url: /research/##working-papers
+    url: /research/#working-papers
   #- title: "Works-in-progress"
-  #  url: /research/##works-in-progress
+  #  url: /research/#works-in-progress
   
 # Teaching sidebar
 sidebar-research:
   - title: "University of Kentucky"
-    url: /research/##University of Kentucky
+    url: /research/#University of Kentucky
   - title: "Northwestern University"
-    url: /research/##Northwestern University
+    url: /research/#Northwestern University
   - title: "KAIST"
-    url: /research/##KAIST
+    url: /research/#KAIST
