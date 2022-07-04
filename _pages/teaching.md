@@ -14,10 +14,12 @@ sidebar:
 (Undergraduate Course at Gatton Business School) 
 + Spring 2020, Instructor Rating 4.2/5  
 
+
 ## Northwestern University
 **Social Dynamics and Network Analysis**, *Teaching Assistant*   
 (MBA Course at Kellogg School of Management)
-+ Winter 2019
++ Winter 2019  
+
 
 ## KAIST
 **Innovation and Technology Management**, *Teaching Assistant*     
