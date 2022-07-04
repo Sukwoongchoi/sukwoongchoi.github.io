@@ -10,22 +10,28 @@ sidebar:
 ---
 
 ## University of Kentucky
-**Managing Social and Organizational Networks Spring 2020**, Rating 4.2/5  
-(Undergraduate Course Instructor at Gatton Business School) 
+**Managing Social and Organizational Networks**, *Instructor*     
+(Undergraduate Course at Gatton Business School) 
++ Spring 2020, Instructor Rating 4.2/5  
 
 ## Northwestern University
-**Social Dynamics and Network Analysis Winter 2019**  
-(MBA Course Teaching Assistant at Kellogg B-School)
+**Social Dynamics and Network Analysis**, *Teaching Assistant*   
+(MBA Course at Kellogg School of Management)
++ Winter 2019
 
 ## KAIST
-**Innovation and Technology Management Spring 2016, Fall 2016**  
-(Graduate Course TA)
+**Innovation and Technology Management**, *Teaching Assistant*     
+(Graduate Course at KAIST College of Business)
++ Spring 2016, Fall 2016
 
-**Econometrics Spring 2015, Fall 2015**  
-(Undergraduate Course TA)
+**Econometrics**, *Teaching Assistant*   
+(Undergraduate Course at KAIST College of Business)  
++ Spring 2015, Fall 2015
 
-**Organization Theory Spring 2014**  
-(Graduate Course TA)
+**Organization Theory**, *Teaching Assistant*     
+(Graduate Course at KAIST College of Business)  
++ Spring 2014
 
-**Research Methodology I Spring 2013, Fall 2013**  
-(Graduate Course TA) 
+**Research Methodology I**, *Teaching Assistant*    
+(Graduate Course at KAIST College of Business)   
++ Spring 2013, Fall 2013
