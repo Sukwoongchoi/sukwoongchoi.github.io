@@ -17,10 +17,10 @@ main:
 sidebar-research:
   - title: "Working Papers"
     url: /research/#working-papers
-  - title: "Publications"
-    url: /research/#publications  
   - title: "Work-in-progress"
     url: /research/#work-in-progress
+  - title: "Publications"
+    url: /research/#publications    
   
 # Teaching sidebar
 sidebar-teaching:
