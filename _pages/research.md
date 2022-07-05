@@ -43,14 +43,14 @@ Paper Link:
 *Working Paper*, to be submitted to *Research Policy*.
 
 + **How Does AI Improve Human Collaboration and Performance? Evidence from AI-powered X-ray Triage in University Hospitals** (with H. Kang and N. Kim)   
-*Work in progress*, to be submitted to *Strategic Management Journal*. 
+*Data Collection After Passing IRB Review*, to be submitted to *Strategic Management Journal*. 
   + **Grant**: Co-principal investigator, USC Marshall Institute for Outlier Research in Business Grant Program, “How Does AI Improve Human Decision-Making and Performance? Evidence from AI-powered X-ray Triage in University Hospitals” (with H. Kang and N. Kim) (2022-2023) ($19,400)
 
 + **How Does AI Affect Human Knowledge? The Paradigm Shift by AI** (with H. Kang and N. Kim)   
-*Work in progress*, to be submitted to *Management Science*. 
+*Data Analysis*, to be submitted to *Management Science*. 
 
 + **Generalized Algorithmic Improvement and Firm Value** (with N. Ahmed and N. Thompson)   
-*Work in progress*, to be submitted to *Strategic Management Journal*. 
+*Data Analysis*, to be submitted to *Strategic Management Journal*. 
 
 ## Peer Reviewed Publications
 + **International Alliance Formation: The Effect of Technology Competition Networks** (with N. Kim and W. Kim)   
