@@ -9,6 +9,10 @@ sidebar:
   nav: sidebar-research
 ---
 
+## Research Interests
++ **Innovation, Entrepreneurship, and Economics of AI**  
+
+
 ## Working papers
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with N. Kim, J. Kim, and H. Kang)  
 *Under Review*, 2022. 
@@ -47,7 +51,7 @@ Paper Link:
 + **Generalized Algorithmic Improvement and Firm Value** (with N. Ahmed and N. Thompson)   
 *Work in progress*, to be submitted to *Strategic Management Journal*. 
 
-## Publications
+## Peer Reviewed Publications
 + **International Alliance Formation: The Effect of Technology Competition Networks** (with N. Kim and W. Kim)   
 *Journal of Business Research*, 2022.
 Paper Link:
