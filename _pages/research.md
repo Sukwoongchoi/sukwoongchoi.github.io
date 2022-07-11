@@ -58,7 +58,7 @@ Paper Link:
 Paper Link:
 <span style="float:center"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0148296322001230">Paper</a>
 
-+ **When Does AI Payoff?: AI Adoption Intensity, Complementary Investments, and R&D Strategy** (with T. Kim, W. Kim, and Y. Lee *(Equally contributed)*)  
++ **When Does AI Payoff?: AI-Adoption Intensity, Complementary Investments, and R&D Strategy** (with T. Kim, W. Kim, and Y. Lee *(Equally contributed)*)  
 *Technovation*, 2022.
 Paper Link:
 <span style="float:center"><a href="https://www.sciencedirect.com/science/article/pii/S0166497222001377?dgcid=coauthor">Paper</a>
