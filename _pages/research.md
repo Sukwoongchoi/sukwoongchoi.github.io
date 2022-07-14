@@ -16,7 +16,6 @@ sidebar:
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with N. Kim, J. Kim, and H. Kang)  
 *Under Review*, 2022. 
 Paper Link:
-<span style="float:center"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893835">SSRN</a>
 <a href="/assets/papers/JMP_GO.pdf">PDF</a></span>
 
   <details>
