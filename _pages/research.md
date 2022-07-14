@@ -33,15 +33,14 @@ Paper Link:
   <details>
   <summary>Abstract</summary>
     <blockquote>Although the existing literature has discussed the effects of VC firms on investee ventures before and at the time of an IPO, less is known about how they influence the strategic decisions of newly public firms after the IPO. Conventional wisdom is that VC investors exit from a venture investment through an IPO. However, we find that VC investors hold a significant amount of shares for years after an IPO. This study examines how VC investors affect a firm after an IPO. Building on the literature on governance through ownership, we argue that post-IPO VC shareholders encourage innovation-enhancing investments of newly public firms and that post-IPO VC ownership positively affects the market value of newly public firms. Our underlying logic is that outcomes created by innovation-enhancing investments of newly public firms can be beneficial to not only themselves but also VC shareholders for VC reputation, network externality, and knowledge acquisition. Consistent with our arguments, our empirical study shows that post-IPO VC ownership is positively related to R&D intensity, CAPEX investment, and Tobin’s Q of newly public firms and that these relationships are amplified when a lead VC is located close to the firm, when a VC investor sits on the board, and when investees are in technology-intensive industries. This study expands the scope of the VC effect on investee ventures beyond an IPO.</blockquote>
-  </details>
+  </details>  
 
 + **Stay the Course? The Effects of Government Matching R&D Funding on Tech Startups** (with Y. Lee, T. Kim, and W. Kim)  
 *Working Paper*, to be submitted to *Research Policy*.
-
   <details>
   <summary>Abstract</summary>
     <blockquote>Governments have provided significant R&D funding for startups that are significant sources of innovation. The literature that examines the efficacy of R&D funding programs has found mixed results, likely due to program design and implementation issues. In this paper, we examine a special matching R&D subsidy program for startups in which the government provides a substantial amount of matching R&D funds to the awardees of private VCs. Using both secrecy and hand-collected data, we examine the effects of a government matching R&D subsidy to startups’ subsequent investment and innovation. With a regression discontinuity, we find that startups funded by TIPS obtain more patents and subsequent investments than startups not supported by the program. It implies the effectiveness of this program can be increased by imposing the recipient selection system to the private sector. Our study also reveals that TIPS awardees tend to maintain their overall business model while adjusting their strategies in terms of technology development, new technology adoption, and HRM practices.</blockquote>
-  </details>
+  </details>  
 
 + **Practical Quantum Computing is about - More Than Just Hardware** (with K. Greene, P. Shukla, and N. Thompson)  
 *Working Paper*, to be submitted to *Sloan Management Review*.  
