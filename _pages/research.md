@@ -43,7 +43,7 @@ Paper Link:
     <blockquote>Governments have provided significant R&D funding for startups that are significant sources of innovation. The literature that examines the efficacy of R&D funding programs has found mixed results, likely due to program design and implementation issues. In this paper, we examine a special matching R&D subsidy program for startups in which the government provides a substantial amount of matching R&D funds to the awardees of private VCs. Using both secrecy and hand-collected data, we examine the effects of a government matching R&D subsidy to startups’ subsequent investment and innovation. With a regression discontinuity, we find that startups funded by TIPS obtain more patents and subsequent investments than startups not supported by the program. It implies the effectiveness of this program can be increased by imposing the recipient selection system to the private sector. Our study also reveals that TIPS awardees tend to maintain their overall business model while adjusting their strategies in terms of technology development, new technology adoption, and HRM practices.</blockquote>
   </details>
 
-+ **Practical Quantum Computing is about-More Than Just Hardware** (with K. Greene, P. Shukla, and N. Thompson)  
++ **Practical Quantum Computing is about - More Than Just Hardware** (with K. Greene, P. Shukla, and N. Thompson)  
 *Working Paper*, to be submitted to *Sloan Management Review*.  
 
 
