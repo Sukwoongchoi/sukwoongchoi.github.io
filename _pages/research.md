@@ -48,10 +48,6 @@ Paper Link:
 
 ## Work-in-progress
 
-+ **How Does AI Improve Human Collaboration and Performance? Evidence from AI-powered X-ray Triage in University Hospitals** (with H. Kang and N. Kim)   
-*Data Collection After Passing IRB Review*, to be submitted to *Organization Science*. 
-  + **Grant**: Co-principal investigator, USC Marshall Institute for Outlier Research in Business Grant Program, “How Does AI Improve Human Decision-Making and Performance? Evidence from AI-powered X-ray Triage in University Hospitals” (with H. Kang and N. Kim) (2022-2023) ($19,400)
-
 + **How Does AI Affect Human Knowledge? The Paradigm Shift by AI** (with H. Kang and N. Kim)   
 *Data Analysis*, to be submitted to *Management Science*. 
 
@@ -60,6 +56,10 @@ Paper Link:
 
 + **Which problems will quantum computing accelerate (and which won’t it)?** (with W. Moses and N. Thompson)  
 *Writing a Draft*, to be submitted to *Science*.
+
++ **How Does AI Improve Human Collaboration and Performance? Evidence from AI-powered X-ray Triage in University Hospitals** (with H. Kang and N. Kim)   
+*Data Collection After Passing IRB Review*.
+  + **Grant**: Co-principal investigator, USC Marshall Institute for Outlier Research in Business Grant Program, “How Does AI Improve Human Decision-Making and Performance? Evidence from AI-powered X-ray Triage in University Hospitals” (with H. Kang and N. Kim) (2022-2023) ($19,400)
 
 ## Peer Reviewed Publications
 + **International Alliance Formation: The Effect of Technology Competition Networks** (with N. Kim and W. Kim)   
