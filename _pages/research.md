@@ -11,6 +11,8 @@ sidebar:
 
 ## Research Interests
 + **Innovation, Entrepreneurship, and Economics of AI**  
+  + My research interests are innovation and entrepreneurship driven by new technologies such as AI, Algorithms, and Quantum Computing. In this vein, my job market paper is to examine how AI affects human decision-making.
+
 
 ## Job Market Paper
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with N. Kim, J. Kim, and H. Kang)  
