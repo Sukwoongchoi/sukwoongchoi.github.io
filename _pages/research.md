@@ -16,7 +16,7 @@ sidebar:
 
 ## Job Market Paper
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with N. Kim, J. Kim, and H. Kang)  
-*Under Review*, 2022. 
+*Revise and Resubmit*, 2022. 
 Paper Link:
 <a href="/assets/papers/JMP_GO.pdf">PDF</a>
   <details>
