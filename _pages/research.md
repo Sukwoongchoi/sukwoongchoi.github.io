@@ -54,10 +54,10 @@ Paper Link:
 
 ## Work-in-progress
 
-+ **How Does AI Affect Human Knowledge? The Paradigm Shift by AI** (with H. Kang and N. Kim)   
++ **Standing on the Shoulders of AI? Knowledge Creation by Learning from AI** (with H. Kang, N. Kim, and J. Kim)   
 *Data Analysis*, to be submitted to *Management Science*. 
 
-+ **Generalized Algorithmic Improvement and Firm Value** (with N. Ahmed and N. Thompson)   
++ **Algorithmic Patents, Algorithm Improvements and Firm Value** (with N. Ahmed and N. Thompson)   
 *Data Analysis*, to be submitted to *Strategic Management Journal*. 
 
 + **Which problems will quantum computing accelerate (and which won’t it)?** (with W. Moses and N. Thompson)  
