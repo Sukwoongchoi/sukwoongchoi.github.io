@@ -74,7 +74,7 @@ Paper Link:
 *Technovation*, 2022.
 Paper Link:
 <span style="float:center"><a href="https://www.sciencedirect.com/science/article/pii/S0166497222001377?dgcid=coauthor">Paper</a>
-  + Media Cover: <a href="https://ide.mit.edu/wp-content/uploads/2022/11/WHEN-DOES-AI-PAY-OFF__11-25-22.pdf?x96981">MIT IDE Research Brief</a>
+  + Media Cover: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence-pays-when-businesses-go-all?utm_source=mitsloantwitter&utm_medium=social&utm_campaign=aipayoff">MIT Sloan</a>, <a href="https://ide.mit.edu/wp-content/uploads/2022/11/WHEN-DOES-AI-PAY-OFF__11-25-22.pdf?x96981">MIT IDE Research Brief</a>
   
 + **Are Social Entrepreneurs More Risk-Averse?** (with N. Kim and W. Kim)  
 *Applied Economics Letters*, 2019.
