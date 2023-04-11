@@ -49,7 +49,10 @@ Paper Link:
   + **Grant**: Co-investigator, Finance, Competitiveness & Innovation Global Practice, East Asia and Pacific World Bank Group, “The Effects of Government Matching R&D Funds on Tech Startups: The Case of Korea’s TIPS Program” (with Y. Lee, T. Kim, and W. Kim) (2022-2023) ($20,000)
 
 + **Practical Quantum Computing is about - More Than Just Hardware** (with K. Greene, P. Shukla, and N. Thompson)  
-*Working Paper*, to be submitted to *Sloan Management Review*.  
+*Working Paper*, to be submitted to *Sloan Management Review*.
+Online Appendix Link:
+<span style="float:center"><a href="https://github.com/Sukwoongchoi/sukwoongchoi.github.io/blob/master/assets/papers/Appendix_Total_20230411.pdf">Appendix</a>
+
 
 
 ## Work-in-progress
