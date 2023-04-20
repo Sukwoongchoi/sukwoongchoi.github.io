@@ -11,8 +11,7 @@ I am Sukwoong Choi, a postdoctoral scholar at the MIT Sloan School of Management
 + Before joining the MIT Sloan, I was a postdoctoral scholar at the University of Southern California (Technology Innovation and Entrepreneurship) and the University of Kentucky (Gatton College of Business and Economics, Management).
 + I received my PhD from KAIST College of Business. During my PhD, I was a visiting PhD student at the University of California, Berkeley (Haas School of Business, Management of Organizations (MORS)) and Northwestern University (Kellogg School of Management, MORS and NICO (Northwestern Institute on Complex Systems)).
 
-
-
++ In September 2023, I will be joining the Business Artificial Intelligence position at University at Albany, SUNY, as an Assistant Professor.
 
 <br />
 <img src="/assets/images/MIT_CSAIL.png" width="200" height="120" style="float:right">
