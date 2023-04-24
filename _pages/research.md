@@ -68,10 +68,6 @@ Online Appendix Link:
   + **Grant**: Co-principal investigator, USC Marshall Institute for Outlier Research in Business Grant Program, “How Does AI Improve Human Decision-Making and Performance? Evidence from AI-powered X-ray Triage in University Hospitals” (with H. Kang and N. Kim) (2022-2023) ($19,400)
 
 ## Peer Reviewed Publications
-+ **International Alliance Formation: The Effect of Technology Competition Networks** (with N. Kim and W. Kim)   
-*Journal of Business Research*, 2022.
-Paper Link:
-<span style="float:center"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0148296322001230">Paper</a>
 
 + **When Does AI Payoff?: AI-Adoption Intensity, Complementary Investments, and R&D Strategy** (with T. Kim, W. Kim, and Y. Lee *(Equally contributed)*)  
 *Technovation*, 2022.
@@ -79,6 +75,11 @@ Paper Link:
 <span style="float:center"><a href="https://www.sciencedirect.com/science/article/pii/S0166497222001377?dgcid=coauthor">Paper</a>
   + Media Cover: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence-pays-when-businesses-go-all?utm_source=mitsloantwitter&utm_medium=social&utm_campaign=aipayoff">MIT Sloan</a>, <a href="https://ide.mit.edu/wp-content/uploads/2022/11/WHEN-DOES-AI-PAY-OFF__11-25-22.pdf?x96981">MIT IDE Research Brief</a>, <a href="https://www.linkedin.com/feed/update/urn:li:activity:7033473147995590656/">Technovation Elsevier</a>
   
++ **International Alliance Formation: The Effect of Technology Competition Networks** (with N. Kim and W. Kim)   
+*Journal of Business Research*, 2022.
+Paper Link:
+<span style="float:center"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0148296322001230">Paper</a>
+
 + **Are Social Entrepreneurs More Risk-Averse?** (with N. Kim and W. Kim)  
 *Applied Economics Letters*, 2019.
 Paper Link:
