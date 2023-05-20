@@ -15,17 +15,17 @@ main:
 
 # Research sidebar
 sidebar-research:
-  - title: "Job Market Paper"
-    url: /research/#job-market-paper  
+  #- title: "Job Market Paper"
+  #  url: /research/#job-market-paper  
   - title: "Research Interests"
     url: /research/#research-interests
+  - title: "Publications"
+    url: /research/#peer-reviewed-publications   
   - title: "Working Papers"
     url: /research/#working-papers
   - title: "Work-in-progress"
     url: /research/#work-in-progress
-  - title: "Publications"
-    url: /research/#peer-reviewed-publications   
-  
+   
 # Teaching sidebar
 sidebar-teaching:
   - title: "University of Kentucky"
