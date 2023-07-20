@@ -62,15 +62,11 @@ Paper Link:
 
   + **Grant**: Co-investigator, Finance, Competitiveness & Innovation Global Practice, East Asia and Pacific World Bank Group, “The Effects of Government Matching R&D Funds on Tech Startups: The Case of Korea’s TIPS Program” (with Y. Lee, T. Kim, and W. Kim) (2022-2023) ($20,000)
 
-+ **Practical Quantum Computing is about - More Than Just Hardware** (with K. Greene, P. Shukla, and N. Thompson)  
++ + **Practical Quantum Computing is about More Than Just Hardware** (with N. Thompson, P. Shukla, and C. Dukatz)  
   Online Appendix Link:
 <span style="float:center"><a href="https://github.com/Sukwoongchoi/sukwoongchoi.github.io/blob/master/assets/papers/Appendix_Total_20230411.pdf">Appendix</a>
 
-
 ## Work-in-progress
-
-+ **Algorithmic Patents, Algorithm Improvements and Firm Value** (with N. Ahmed and N. Thompson)   
-*Data Analysis*
 
 + **Which problems will quantum computing accelerate (and which won’t it)?** (with W. Moses and N. Thompson)  
 *Writing a Draft*
