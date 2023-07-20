@@ -66,10 +66,18 @@ Paper Link:
   Online Appendix Link:
 <span style="float:center"><a href="https://github.com/Sukwoongchoi/sukwoongchoi.github.io/blob/master/assets/papers/Appendix_Total_20230411.pdf">Appendix</a>
 
++ **Which problems will quantum computing accelerate (and which won’t it)?** (with W. Moses and N. Thompson)  
+  <details>
+  <summary>Abstract</summary>
+    <blockquote>Quantum computing promises transformational gains for solving some problems, but little to none for others. For anyone hoping to use quantum computers now or in the future, it is important to know which problems will benefit. In this paper, we answer this question by analyzing the relative strengths of classical and quantum computers. While classical computers operate faster, quantum computers can sometimes run more efficient algorithms. Whether the speed advantage or the algorithmic advantage dominates determines whether a problem will benefit from quantum computing or not. Our analysis reveals that many problems, particularly those of small to moderate size that can be important for typical businesses, will not benefit from quantum computing. Conversely, problems with exponential algorithmic gains, or polynomial gains and large problem sizes, will benefit from present quantum computing. Since exponential gains are rare in practice and theorized to be rare even in principle, our analysis suggests that the benefits from quantum computing will flow either to users of these rare cases, or practitioners processing very large data.</blockquote>
+  </details>  
+
 ## Work-in-progress
 
-+ **Which problems will quantum computing accelerate (and which won’t it)?** (with W. Moses and N. Thompson)  
++ **How Does Competition Affect AI Investment in Firms? Evidence from a Quasi-Natural Experiment in the United States** (with T. Kim and G. Park)
 *Writing a Draft*
+
+
 
 + **How Does AI Improve Human Collaboration and Performance? Evidence from AI-powered X-ray Triage in University Hospitals** (with H. Kang and N. Kim)   
 *Data Analysis After Passing IRB Review*.
