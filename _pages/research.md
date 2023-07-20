@@ -11,7 +11,7 @@ sidebar:
 
 ## Research Interests
 + **Innovation, Entrepreneurship, and Economics of AI**  
-  + My research interests are innovation and entrepreneurship driven by new technologies such as AI, Algorithms, and Quantum Computing. In this vein, my job market paper is to examine how AI affects human decision-making.
+  + My research interests are innovation and entrepreneurship driven by new technologies such as AI and Quantum Computing.
 
 ## Peer-Reviewed Publications
 
