@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-## Hello! &#128075;
+## Hello&#128075;
 I am Sukwoong Choi, a postdoctoral scholar at the MIT Sloan School of Management. 
 
 + In September 2023, as an Assistant Professor, I will be joining the Business Artificial Intelligence (AI) position at University at Albany, SUNY.
