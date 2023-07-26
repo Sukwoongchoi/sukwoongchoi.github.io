@@ -33,7 +33,7 @@ Paper Link:
 
 ## Working Papers
 
-+ **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with N. Kim, J. Kim, and H. Kang)  
++ **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with H. Kang, N. Kim, and J. Kim)  
 *Revise and Resubmit*, 2022. 
 Paper Link:
 <a href="/assets/papers/JMP_GO.pdf">PDF</a>
