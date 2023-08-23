@@ -15,5 +15,5 @@ I am Sukwoong Choi, an Assistant Professor at the Dept. of Information Systems a
 
 
 <br />
-<img src="/assets/images/UAlbany_logo4.png" width="250" style="float:right">
+<img src="/assets/images/UAlbany_logo3.png" width="250" style="float:right">
 
