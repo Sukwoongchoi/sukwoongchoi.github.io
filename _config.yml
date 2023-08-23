@@ -108,9 +108,9 @@ author:
   location         : #"Cambridge, MA, USA"
   email            : #"sukwoongchoi@gmail.com"
   links:
-    - label: "sukwoong@mit.edu"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sukwoong@mit.edu"
+      url: "mailto:schoi27@albany.edu"
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
       url: "https://sukwoongchoi.github.io/assets/docs/CV_updated.pdf"
