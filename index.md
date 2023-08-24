@@ -15,8 +15,9 @@ I am Sukwoong Choi, an Assistant Professor at the Dept. of Information Systems a
 
 
 <br />
-<img src="/assets/images/MIT-IDE_Logo1.png" width="230" height="120" style="float:right">
-<img src="/assets/images/UAlbany_logo3.png" width="230" height="130" style="float:right">
+<img src="/assets/images/UAlbany_logo3.png" width="230" height="150" style="float:right">
+<img src="/assets/images/MIT-IDE_Logo1.png" width="260" height="160" style="float:right">
+
 
 
 
