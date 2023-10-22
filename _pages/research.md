@@ -53,6 +53,9 @@ Paper Link:
     <blockquote>Although the existing literature has discussed the effects of VC firms on investee ventures before and at the time of an IPO, less is known about how they influence the strategic decisions of newly public firms after the IPO. Conventional wisdom is that VC investors exit from a venture investment through an IPO. However, we find that VC investors hold a significant amount of shares for years after an IPO. This study examines how VC investors affect a firm after an IPO. Building on the literature on governance through ownership, we argue that post-IPO VC shareholders encourage innovation-enhancing investments of newly public firms and that post-IPO VC ownership positively affects the market value of newly public firms. Our underlying logic is that outcomes created by innovation-enhancing investments of newly public firms can be beneficial to not only themselves but also VC shareholders for VC reputation, network externality, and knowledge acquisition. Consistent with our arguments, our empirical study shows that post-IPO VC ownership is positively related to R&D intensity, CAPEX investment, and Tobin’s Q of newly public firms and that these relationships are amplified when a lead VC is located close to the firm, when a VC investor sits on the board, and when investees are in technology-intensive industries. This study expands the scope of the VC effect on investee ventures beyond an IPO.</blockquote>
   </details>  
 
++ **Standing on the Shoulders of AI? Knowledge Creation by Learning from AI** (with H. Kang, N. Kim, and J. Kim)
+  + Finalist for the Best Paper of the 2023 Conference on Information Systems and Technology (CIST)
+
 + **Stay the Course? The Effects of Government Matching R&D Funding on Tech Startups** (with Y. Lee, T. Kim, and W. Kim)  
   <details>
   <summary>Abstract</summary>
@@ -60,6 +63,7 @@ Paper Link:
   </details>  
 
   + **Grant**: Co-investigator, Finance, Competitiveness & Innovation Global Practice, East Asia and Pacific World Bank Group, “The Effects of Government Matching R&D Funds on Tech Startups: The Case of Korea’s TIPS Program” (with Y. Lee, T. Kim, and W. Kim) (2022-2023) ($20,000)
+
 
 + **Practical Quantum Computing is about More Than Just Hardware** (with N. Thompson, P. Shukla, and C. Dukatz)  
   Online Appendix Link:
