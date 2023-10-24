@@ -55,6 +55,7 @@ Paper Link:
 
 + **Standing on the Shoulders of AI? Knowledge Creation by Learning from AI** (with H. Kang, N. Kim, and J. Kim)
   + Finalist for the Best Paper of the 2023 Conference on Information Systems and Technology (CIST)
+    + (#5 out of 208 accepted from 337 submissions)
 
 + **Stay the Course? The Effects of Government Matching R&D Funding on Tech Startups** (with Y. Lee, T. Kim, and W. Kim)  
   <details>
