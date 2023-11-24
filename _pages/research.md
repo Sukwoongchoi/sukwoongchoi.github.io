@@ -36,7 +36,7 @@ Paper Link:
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with H. Kang, N. Kim, and J. Kim)  
 *Revise and Resubmit*, 2022. 
 Paper Link:
-<a href="/assets/papers/JMP_GO.pdf">PDF</a>
+<a href="/assets/papers/SSRN-id3893835.pdf">PDF</a>
   <details>
   <summary>Abstract</summary>
     <blockquote>Firms increasingly utilize AI to assist or replace human tasks. However, AI can also train humans and make them better. We study how the AI’s instructional role improves human decision-making in the professional Go games where an AI-powered Go program (APG) unexpectedly surpassed the best human player, surpassing the best human knowledge and skill accumulated over thousands of years. To isolate the learning-from-AI effect, we compare the quality of human moves to that of AI’s superior solutions, before and after the initial public release of an APG. Our analysis of 750,990 moves in 25,033 games suggests that APG’s training significantly improved the players’ move quality—reducing the number of errors and the magnitude of the most critical mistake. The improvement is most prominent in the early stage of a game when uncertainty is higher. Further, younger players benefit more than older players, suggesting generational inequality in learning from AI.</blockquote>
@@ -73,7 +73,7 @@ Paper Link:
 
 + **Practical Quantum Computing is about More Than Just Hardware** (with N. Thompson, P. Shukla, and C. Dukatz)  
   Online Appendix Link:
-<span style="float:center"><a href="https://github.com/Sukwoongchoi/sukwoongchoi.github.io/blob/master/assets/papers/Appendix_Total_20230411.pdf">Appendix</a>
+<span style="float:center"><a href="/assets/papers/Appendix_Total_20230411.pdf">Appendix</a>
 
 + **The Quantum Tortoise and the Classical Hare: A simple framework for understanding which problems quantum computing will accelerate (and which it won’t)** (with W. Moses and N. Thompson)
 Paper Link:
