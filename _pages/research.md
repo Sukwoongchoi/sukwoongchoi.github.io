@@ -10,8 +10,8 @@ sidebar:
 ---
 
 ## Research Interests
-+ **Innovation, Entrepreneurship, and Economics of AI**  
-  + My research interests are innovation and entrepreneurship driven by new technologies such as AI and Quantum Computing.
++ **Innovation, Entrepreneurship, Technology Management, and Economics of AI**  
+  + My research interests are innovation and entrepreneurship driven by disruptive technologies such as AI and Quantum Computing.
 
 ## Peer-Reviewed Publications
 
