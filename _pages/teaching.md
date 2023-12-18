@@ -15,7 +15,7 @@ sidebar:
 
 + **Open Source Intelligence and Social Network Analysis**, *Instructor*     
 (Graduate Course at Massey School of Business)
-  + Fall 2023, Instructor Rating 4.5/5
+  + Fall 2023, Instructor Rating 4.50/5
 
 
 ## University of Kentucky
