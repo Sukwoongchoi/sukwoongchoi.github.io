@@ -28,6 +28,8 @@ sidebar-research:
    
 # Teaching sidebar
 sidebar-teaching:
+  - title: "University at Albany"
+    url: /teaching/#university-at-albany---state-university-of-new-york
   - title: "University of Kentucky"
     url: /teaching/#university-of-kentucky
   - title: "Northwestern University"
