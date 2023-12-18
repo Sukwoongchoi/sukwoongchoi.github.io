@@ -8,11 +8,19 @@ sidebar:
   title: "Teaching"
   nav: sidebar-teaching
 ---
+## University at Albany - State University of New York
++ **Open Source Intelligence and Social Network Analysis**, *Instructor*     
+(Graduate Course at Massey School of Business)
+  + Fall 2023, Instructor Rating 4.5/5
+
++ **Mathematical Methods for Information Security**, *Instructor*     
+(Graduate Course at Massey School of Business)
+  + Fall 2023, Instructor Rating 4.73/5
 
 ## University of Kentucky
 + **Managing Social and Organizational Networks**, *Instructor*     
 (Undergraduate Course at Gatton Business School)
-  + Spring 2020, Instructor Rating 4.2/5  
+  + Spring 2020, Instructor Rating 4.2/5
 
 
 ## Northwestern University
