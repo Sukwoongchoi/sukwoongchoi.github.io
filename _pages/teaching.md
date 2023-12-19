@@ -11,11 +11,11 @@ sidebar:
 ## University at Albany - State University of New York
 + **Mathematical Methods for Information Security**, *Instructor*     
 (Graduate Course at Massey School of Business)
-  + Fall 2023, Instructor Rating 4.73/5
+  + Fall 2023, Instructor Rating 4.7/5
 
 + **Open Source Intelligence and Social Network Analysis**, *Instructor*     
 (Graduate Course at Massey School of Business)
-  + Fall 2023, Instructor Rating 4.50/5
+  + Fall 2023, Instructor Rating 4.5/5
 
 
 ## University of Kentucky
