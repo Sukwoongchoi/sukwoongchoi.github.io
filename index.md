@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Hello &#128075;
-I am Sukwoong Choi, an Assistant Professor at the Dept. of Information Systems and Business Analytics, School of Business, in the University at Albany, SUNY. I am also a Digital Fellow at Initiative on the Digital Economy (IDE) of MIT. 
+I am Sukwoong Choi, an Assistant Professor at the Dept. of Information Systems and Business Analytics, Massry School of Business, the University at Albany, SUNY. I am also a Digital Fellow at Initiative on the Digital Economy (IDE) of MIT. 
 
 + My research interests are innovation and entrepreneurship driven by disruptive technologies such as AI, Quantum Computing, and Algorithms. I am also interested in the economics of AI, especially how AI affects human decision-making, corporate R&D, firm productivity, and labor markets.
 
