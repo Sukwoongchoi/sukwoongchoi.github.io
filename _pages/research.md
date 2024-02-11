@@ -46,13 +46,6 @@ Paper Link:
   + Media Cover: <a href="https://medium.com/mit-initiative-on-the-digital-economy/how-ai-can-improve-human-decision-making-f70964659aae">MIT IDE Blog</a>, <a href="https://docs.google.com/presentation/d/1bwJDRC777rAf00Drthi9yT2c9b0MabWO5ZlksfvFzx8/edit#slide=id.gedaf89a37f_1_0">State of AI Report 2021</a>, <a href="https://www.chosun.com/sports/sports_general/2021/10/26/7TN3Y4MZCZCVNAQSCDRAXT7SJI/">The Chosun Ilbo</a> (<a href="https://en.wikipedia.org/wiki/The_Chosun_Ilbo">Leading Korean Daily Newspaper)</a>
   + Twitter: This paper has gained more than 5,000 likes and 1,000 retweets. Credits to <a href="https://twitter.com/emollick/status/1508651631151362050">Ethan Mollick</a>.
 
-+ **It Ain’t Over ‘Til It’s Over: Post-IPO VC Ownership Effect on Innovation-Enhancing Investment of Newly Public Firms** (with T. Kim and H. Woo)  
-*Revise and Resubmit*, 2022.
-  <details>
-  <summary>Abstract</summary>
-    <blockquote>Although the existing literature has discussed the effects of VC firms on investee ventures before and at the time of an IPO, less is known about how they influence the strategic decisions of newly public firms after the IPO. Conventional wisdom is that VC investors exit from a venture investment through an IPO. However, we find that VC investors hold a significant amount of shares for years after an IPO. This study examines how VC investors affect a firm after an IPO. Building on the literature on governance through ownership, we argue that post-IPO VC shareholders encourage innovation-enhancing investments of newly public firms and that post-IPO VC ownership positively affects the market value of newly public firms. Our underlying logic is that outcomes created by innovation-enhancing investments of newly public firms can be beneficial to not only themselves but also VC shareholders for VC reputation, network externality, and knowledge acquisition. Consistent with our arguments, our empirical study shows that post-IPO VC ownership is positively related to R&D intensity, CAPEX investment, and Tobin’s Q of newly public firms and that these relationships are amplified when a lead VC is located close to the firm, when a VC investor sits on the board, and when investees are in technology-intensive industries. This study expands the scope of the VC effect on investee ventures beyond an IPO.</blockquote>
-  </details>  
-
 + **Standing on the Shoulders of AI? Knowledge Creation by Learning from AI** (with H. Kang, N. Kim, and J. Kim)
   <details>
   <summary>Abstract</summary>
@@ -62,20 +55,15 @@ Paper Link:
   + Finalist for the Best Paper of the 2023 Conference on Information Systems and Technology (CIST)
     + (#5 out of 208 accepted from 337 submissions)
 
-+ **Stay the Course? The Effects of Government Matching R&D Funding on Tech Startups** (with Y. Lee, T. Kim, and W. Kim)  
++ **It Ain’t Over ‘Til It’s Over: Post-IPO VC Ownership Effect on Innovation-Enhancing Investment of Newly Public Firms** (with T. Kim and H. Woo)  
+*Revise and Resubmit*, 2022.
   <details>
   <summary>Abstract</summary>
-    <blockquote>This study examines the effectiveness of a government-matched R&D subsidy program for startups, which leverages the selection capabilities of private venture capital firms in awarding funds. Using a regression discontinuity design and a combination of confidential and hand-collected data, we assess the program's impact on follow-up investments, R&D investment, and patenting activities in funded startups. Our findings reveal that startups benefiting from the matching R&D subsidy program secure more subsequent investments (3.3 times), R&D investment (14.1%), and patenting activities (13.7%) compared to non-funded peers, highlighting the potential of government-matched R&D funding programs that engage private sector expertise in the selection process to drive growth and innovation. Through a survey of awardees and non-awardees, we identify underlying mechanisms, including that funded startups were more likely to adhere to their business models and strategic planning, adopt new technologies, and implement performance-based human resource management practices. These insights can inform policymaking on strategies to foster innovation in the startup ecosystem.</blockquote>
+    <blockquote>Although the existing literature has discussed the effects of VC firms on investee ventures before and at the time of an IPO, less is known about how they influence the strategic decisions of newly public firms after the IPO. Conventional wisdom is that VC investors exit from a venture investment through an IPO. However, we find that VC investors hold a significant amount of shares for years after an IPO. This study examines how VC investors affect a firm after an IPO. Building on the literature on governance through ownership, we argue that post-IPO VC shareholders encourage innovation-enhancing investments of newly public firms and that post-IPO VC ownership positively affects the market value of newly public firms. Our underlying logic is that outcomes created by innovation-enhancing investments of newly public firms can be beneficial to not only themselves but also VC shareholders for VC reputation, network externality, and knowledge acquisition. Consistent with our arguments, our empirical study shows that post-IPO VC ownership is positively related to R&D intensity, CAPEX investment, and Tobin’s Q of newly public firms and that these relationships are amplified when a lead VC is located close to the firm, when a VC investor sits on the board, and when investees are in technology-intensive industries. This study expands the scope of the VC effect on investee ventures beyond an IPO.</blockquote>
   </details>  
 
-  + **Grant**: Co-investigator, Finance, Competitiveness & Innovation Global Practice, East Asia and Pacific World Bank Group, “The Effects of Government Matching R&D Funds on Tech Startups: The Case of Korea’s TIPS Program” (with Y. Lee, T. Kim, and W. Kim) (2022-2023) ($20,000)
-
-
-+ **Practical Quantum Computing is about More Than Just Hardware** (with N. Thompson, P. Shukla, and C. Dukatz)  
-  Online Appendix Link:
-<span style="float:center"><a href="/assets/papers/Appendix_Total_20230411.pdf">Appendix</a>
-
 + **The Quantum Tortoise and the Classical Hare: A simple framework for understanding which problems quantum computing will accelerate (and which it won’t)** (with W. Moses and N. Thompson)
+*Under Review*, 2023.
 Paper Link:
 <span style="float:center"><a href="https://arxiv.org/pdf/2310.15505.pdf">Paper</a>  
   <details>
@@ -85,11 +73,23 @@ Paper Link:
 
   + Media Cover: <a href="https://finance.yahoo.com/news/quantum-computing-better-business-120400361.html?guccounter=1">Yahoo Finance</a>, <a href="https://mitsloan.mit.edu/ideas-made-to-matter/quantum-computing-what-leaders-need-to-know-now?utm_source=mitsloanlinkedin&utm_medium=social&utm_campaign=quantumtortoise">MIT Sloan</a>, <a href="https://medium.com/mit-initiative-on-the-digital-economy/quantum-computings-sweet-spot-e6b6c22e24e7">MIT IDE Blog</a>
 
+
++ **Practical Quantum Computing is about More Than Just Hardware** (with N. Thompson, P. Shukla, and C. Dukatz)  
+  Online Appendix Link:
+<span style="float:center"><a href="/assets/papers/Appendix_Total_20230411.pdf">Appendix</a>
+
+
++ **Stay the Course? The Effects of Government Matching R&D Funding on Tech Startups** (with Y. Lee, T. Kim, and W. Kim)  
+  <details>
+  <summary>Abstract</summary>
+    <blockquote>This study examines the effectiveness of a government-matched R&D subsidy program for startups, which leverages the selection capabilities of private venture capital firms in awarding funds. Using a regression discontinuity design and a combination of confidential and hand-collected data, we assess the program's impact on follow-up investments, R&D investment, and patenting activities in funded startups. Our findings reveal that startups benefiting from the matching R&D subsidy program secure more subsequent investments (3.3 times), R&D investment (14.1%), and patenting activities (13.7%) compared to non-funded peers, highlighting the potential of government-matched R&D funding programs that engage private sector expertise in the selection process to drive growth and innovation. Through a survey of awardees and non-awardees, we identify underlying mechanisms, including that funded startups were more likely to adhere to their business models and strategic planning, adopt new technologies, and implement performance-based human resource management practices. These insights can inform policymaking on strategies to foster innovation in the startup ecosystem.</blockquote>
+  </details>  
+
+
 ## Work-in-progress
 
 + **How Does Competition Affect AI Investment in Firms? Evidence from a Quasi-Natural Experiment in the United States** (with T. Kim and G. Park)
 *Writing a Draft*
-
 
 
 + **How Does AI Improve Human Collaboration and Performance? Evidence from AI-powered X-ray Triage in University Hospitals** (with H. Kang and N. Kim)   
