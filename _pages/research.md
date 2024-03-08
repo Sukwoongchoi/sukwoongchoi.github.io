@@ -16,7 +16,6 @@ sidebar:
 ## Peer-Reviewed Publications
 + **Quantum Economic Advantage: A Framework for CXOs** (with N. Thompson, P. Shukla, and C. Dukatz)  
 *California Management Review, Accepted*, 2024.   
-
   + Online Appendix Link:
 <span style="float:center"><a href="/assets/papers/Appendix_Total_20230411.pdf">Appendix</a>
 
