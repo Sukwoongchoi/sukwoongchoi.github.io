@@ -14,6 +14,11 @@ sidebar:
   + My research interests are innovation and entrepreneurship driven by disruptive technologies such as AI and Quantum Computing.
 
 ## Peer-Reviewed Publications
++ **Quantum Economic Advantage: A Framework for CXOs** (with N. Thompson, P. Shukla, and C. Dukatz)  
+*California Management Review, Accepted*, 2024.   
+
+  + Online Appendix Link:
+<span style="float:center"><a href="/assets/papers/Appendix_Total_20230411.pdf">Appendix</a>
 
 + **When Does AI Payoff?: AI-Adoption Intensity, Complementary Investments, and R&D Strategy** (with T. Kim, W. Kim, and Y. Lee *(Equally contributed)*)  
 *Technovation*, 2022.
@@ -72,12 +77,6 @@ Paper Link:
   </details> 
 
   + Media Cover: <a href="https://finance.yahoo.com/news/quantum-computing-better-business-120400361.html?guccounter=1">Yahoo Finance</a>, <a href="https://mitsloan.mit.edu/ideas-made-to-matter/quantum-computing-what-leaders-need-to-know-now?utm_source=mitsloanlinkedin&utm_medium=social&utm_campaign=quantumtortoise">MIT Sloan</a>, <a href="https://medium.com/mit-initiative-on-the-digital-economy/quantum-computings-sweet-spot-e6b6c22e24e7">MIT IDE Blog</a>
-
-
-+ **Practical Quantum Computing is about More Than Just Hardware** (with N. Thompson, P. Shukla, and C. Dukatz)  
-  Online Appendix Link:
-<span style="float:center"><a href="/assets/papers/Appendix_Total_20230411.pdf">Appendix</a>
-
 
 + **Stay the Course? The Effects of Government Matching R&D Funding on Tech Startups** (with Y. Lee, T. Kim, and W. Kim)  
   <details>
