@@ -14,8 +14,10 @@ sidebar:
   + My research interests are innovation and entrepreneurship driven by disruptive technologies such as AI and Quantum Computing.
 
 ## Peer-Reviewed Publications
-+ **Quantum Economic Advantage: A Framework for CXOs** (with N. Thompson, P. Shukla, and C. Dukatz)  
-*California Management Review, Accepted*, 2024.   
++ **Practical Quantum Computing is about More Than Just Hardware** (with N. Thompson, P. Shukla, and C. Dukatz)  
+*California Management Review*, 2024.
+Paper Link:
+<span style="float:center"><a href="https://cmr.berkeley.edu/2024/03/practical-quantum-computing-is-about-more-than-just-hardware/">Paper</a>
   + Online Appendix Link:
 <span style="float:center"><a href="/assets/papers/Appendix_Total_20230411.pdf">Appendix</a>
 
