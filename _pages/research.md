@@ -59,7 +59,7 @@ Paper Link:
   </details>  
   
   + Finalist for the Best Paper of the 2023 Conference on Information Systems and Technology (CIST)
-    + (#5 out of 208 accepted from 337 submissions)
+    + (Top 5 out of 208 papers accepted from 337 submissions)
 
 + **It Ain’t Over ‘Til It’s Over: Post-IPO VC Ownership Effect on Innovation-Enhancing Investment of Newly Public Firms** (with T. Kim and H. Woo)  
 *Revise and Resubmit*, 2022.
