@@ -9,6 +9,15 @@ sidebar:
   nav: sidebar-teaching
 ---
 ## University at Albany - State University of New York
+
++ **Analytics and Visualization**, *Instructor*  
+(Graduate Course at Massey School of Business)
+  + Spring 2024, Instructor Rating 4.8/5
+
++ **Topics in Business Analytics**, *Instructor*  
+(Undergraduate Course at Massey School of Business)
+  + Spring 2024, Instructor Rating 4.2/5
+
 + **Mathematical Methods for Information Security**, *Instructor*     
 (Graduate Course at Massey School of Business)
   + Fall 2023, Instructor Rating 4.7/5
