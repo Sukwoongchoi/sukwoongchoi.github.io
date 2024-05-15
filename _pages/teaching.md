@@ -8,7 +8,7 @@ sidebar:
   title: "Teaching"
   nav: sidebar-teaching
 ---
-## University at Albany - State University of New York
+## University at Albany - State University of New York (SUNY)
 
 + **Analytics and Visualization**, *Instructor*  
 (Graduate Course at Massey School of Business)
