@@ -90,7 +90,7 @@ Paper Link:
 
 + **How Does Competition Affect AI Investment in Firms? Evidence from a Quasi-Natural Experiment in the United States** (with T. Kim and G. Park)
 *Writing a Draft*
-
+  + Winner for the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
 
 + **How Does AI Improve Human Collaboration and Performance? Evidence from AI-powered X-ray Triage in University Hospitals** (with H. Kang and N. Kim)   
 *Data Analysis After Passing IRB Review*.
