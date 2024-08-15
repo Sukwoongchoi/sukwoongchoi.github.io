@@ -14,6 +14,20 @@ sidebar:
   + My research interests are innovation and entrepreneurship driven by disruptive technologies such as AI and Quantum Computing.
 
 ## Peer-Reviewed Publications
+
++ **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with H. Kang, N. Kim, and J. Kim)  
+*Strategic Management Journal, Conditionally Accepted*, 2024. 
+Paper Link:
+<a href="/assets/papers/SSRN-id3893835.pdf">PDF</a>
+  <details>
+  <summary>Abstract</summary>
+    <blockquote>Firms increasingly utilize AI to assist or replace human tasks. However, AI can also train humans and make them better. We study how the AI’s instructional role improves human decision-making in the professional Go games where an AI-powered Go program (APG) unexpectedly surpassed the best human player, surpassing the best human knowledge and skill accumulated over thousands of years. To isolate the learning-from-AI effect, we compare the quality of human moves to that of AI’s superior solutions, before and after the initial public release of an APG. Our analysis of 750,990 moves in 25,033 games suggests that APG’s training significantly improved the players’ move quality—reducing the number of errors and the magnitude of the most critical mistake. The improvement is most prominent in the early stage of a game when uncertainty is higher. Further, younger players benefit more than older players, suggesting generational inequality in learning from AI.</blockquote>
+  </details>
+  
+  + <a href="https://www.strategicmanagement.net/ig-strategic-human-capital/past-awards">Winner</a> for the Best Interdisciplinary Paper Award Strategic Human Capital in the SMS 2021
+  + Media Cover: <a href="https://medium.com/mit-initiative-on-the-digital-economy/how-ai-can-improve-human-decision-making-f70964659aae">MIT IDE Blog</a>, <a href="https://docs.google.com/presentation/d/1bwJDRC777rAf00Drthi9yT2c9b0MabWO5ZlksfvFzx8/edit#slide=id.gedaf89a37f_1_0">State of AI Report 2021</a>, <a href="https://www.chosun.com/sports/sports_general/2021/10/26/7TN3Y4MZCZCVNAQSCDRAXT7SJI/">The Chosun Ilbo</a> (<a href="https://en.wikipedia.org/wiki/The_Chosun_Ilbo">Leading Korean Daily Newspaper</a>)
+  + Twitter: This paper has gained more than 5,000 likes and 1,000 retweets. Credits to <a href="https://twitter.com/emollick/status/1508651631151362050">Ethan Mollick</a>.
+
 + **Practical Quantum Computing is about More Than Just Hardware** (with N. Thompson, P. Shukla, and C. Dukatz)  
 *California Management Review*, 2024.
 Paper Link:
@@ -39,19 +53,6 @@ Paper Link:
 
 ## Working Papers
 
-+ **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with H. Kang, N. Kim, and J. Kim)  
-*Strategic Management Journal, Conditionally Accepted*, 2024. 
-Paper Link:
-<a href="/assets/papers/SSRN-id3893835.pdf">PDF</a>
-  <details>
-  <summary>Abstract</summary>
-    <blockquote>Firms increasingly utilize AI to assist or replace human tasks. However, AI can also train humans and make them better. We study how the AI’s instructional role improves human decision-making in the professional Go games where an AI-powered Go program (APG) unexpectedly surpassed the best human player, surpassing the best human knowledge and skill accumulated over thousands of years. To isolate the learning-from-AI effect, we compare the quality of human moves to that of AI’s superior solutions, before and after the initial public release of an APG. Our analysis of 750,990 moves in 25,033 games suggests that APG’s training significantly improved the players’ move quality—reducing the number of errors and the magnitude of the most critical mistake. The improvement is most prominent in the early stage of a game when uncertainty is higher. Further, younger players benefit more than older players, suggesting generational inequality in learning from AI.</blockquote>
-  </details>
-  
-  + <a href="https://www.strategicmanagement.net/ig-strategic-human-capital/past-awards">Winner</a> for the Best Interdisciplinary Paper Award Strategic Human Capital in the SMS 2021
-  + Media Cover: <a href="https://medium.com/mit-initiative-on-the-digital-economy/how-ai-can-improve-human-decision-making-f70964659aae">MIT IDE Blog</a>, <a href="https://docs.google.com/presentation/d/1bwJDRC777rAf00Drthi9yT2c9b0MabWO5ZlksfvFzx8/edit#slide=id.gedaf89a37f_1_0">State of AI Report 2021</a>, <a href="https://www.chosun.com/sports/sports_general/2021/10/26/7TN3Y4MZCZCVNAQSCDRAXT7SJI/">The Chosun Ilbo</a> (<a href="https://en.wikipedia.org/wiki/The_Chosun_Ilbo">Leading Korean Daily Newspaper</a>)
-  + Twitter: This paper has gained more than 5,000 likes and 1,000 retweets. Credits to <a href="https://twitter.com/emollick/status/1508651631151362050">Ethan Mollick</a>.
-
 + **Standing on the Shoulders of AI? Knowledge Creation by Learning from AI** (with H. Kang, N. Kim, and J. Kim)
   <details>
   <summary>Abstract</summary>
@@ -69,7 +70,7 @@ Paper Link:
   </details>  
 
 + **The Quantum Tortoise and the Classical Hare: A simple framework for understanding which problems quantum computing will accelerate (and which it won’t)** (with W. Moses and N. Thompson)
-*Under Review*, 2023.
+*Revise and Resubmit*, 2024.
 Paper Link:
 <span style="float:center"><a href="https://arxiv.org/pdf/2310.15505.pdf">Paper</a>  
   <details>
@@ -85,7 +86,6 @@ Paper Link:
     <blockquote>This study examines the effectiveness of a government-matched R&D subsidy program for startups, which leverages the selection capabilities of private venture capital firms in awarding funds. Using a regression discontinuity design and a combination of confidential and hand-collected data, we assess the program's impact on follow-up investments, R&D investment, and patenting activities in funded startups. Our findings reveal that startups benefiting from the matching R&D subsidy program secure more subsequent investments (3.3 times), R&D investment (14.1%), and patenting activities (13.7%) compared to non-funded peers, highlighting the potential of government-matched R&D funding programs that engage private sector expertise in the selection process to drive growth and innovation. Through a survey of awardees and non-awardees, we identify underlying mechanisms, including that funded startups were more likely to adhere to their business models and strategic planning, adopt new technologies, and implement performance-based human resource management practices. These insights can inform policymaking on strategies to foster innovation in the startup ecosystem.</blockquote>
   </details>  
 
-
 ## Work-in-progress
 
 + **How Does Competition Affect AI Investment in Firms? Evidence from a Quasi-Natural Experiment in the United States** (with T. Kim and G. Park)
@@ -93,7 +93,8 @@ Paper Link:
   + Winner for the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
 
 + **How Does AI Improve Human Collaboration and Performance? Evidence from AI-powered X-ray Triage in University Hospitals** (with H. Kang and N. Kim)   
-*Data Analysis After Passing IRB Review*.
+*Data Analysis After Passing IRB Review*
   + **Grant**: Co-principal investigator, USC Marshall Institute for Outlier Research in Business Grant Program, “How Does AI Improve Human Decision-Making and Performance? Evidence from AI-powered X-ray Triage in University Hospitals” (with H. Kang and N. Kim) (2022-2023) ($19,400)
 
-
++ **Algorithm Patents Collected and Unveiled** (with A. Choudhury and N. Thompson)
+*Data Collection*
