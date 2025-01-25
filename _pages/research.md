@@ -16,7 +16,7 @@ sidebar:
 ## Peer-Reviewed Publications
 
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with H. Kang, N. Kim, and J. Kim)  
-*Strategic Management Journal, Conditionally Accepted*, 2024. 
+*Strategic Management Journal, Accepted*, 2024. 
 Paper Link:
 <a href="/assets/papers/SSRN-id3893835.pdf">Paper</a>
   <details>
@@ -53,7 +53,8 @@ Paper Link:
 
 ## Working Papers
 
-+ **Standing on the Shoulders of AI? Knowledge Creation by Learning from AI** (with H. Kang, N. Kim, and J. Kim)
++ **Standing on the Shoulders of AI? Knowledge Creation by Learning from AI** (with H. Kang, N. Kim, and J. Kim)  
+*Revise and Resubmit*, 2025.
   <details>
   <summary>Abstract</summary>
     <blockquote>Knowledge is a crucial source of competitive advantage, innovation, and economic growth, but creating new knowledge can be difficult. We study whether and how the interaction between human professionals and artificial intelligence (AI) pushes the knowledge frontier. Studying this question is challenging because of the difficulty in measuring new knowledge and quantifying AI’s impact. We circumvent these issues by studying professional Go matches from 2003 through 2021. In 2017, the AI-powered Go program (APG) far surpassed the best human player, and professional players began learning from AI. Such human-AI interaction paved a new way to reassess historical Go knowledge and create new knowledge. We analyze every move in 69,974 games and find that, after APG, professional players significantly changed how they play (1) the first move and (2) the first invasion move in each quadrant. In addition, they adopted different sets of “standard patterns” (defined as a sequence of the first eight alternating moves) that set up the game in the early stage. However, new knowledge catalyzed by AI comes at the expense of higher concentration and reduced diversity of moves. Further, AI’s impact on knowledge creation is greater for highly skilled players; since AI does not explain, learning from AI requires the absorptive capacity of professionals. AI helps humans push the knowledge frontier, but its consequences for knowledge concentration and for differential learning by skill levels provide important implications for how best to seize the opportunities opened up by AI.</blockquote>
