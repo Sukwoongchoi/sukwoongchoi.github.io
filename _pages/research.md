@@ -54,7 +54,7 @@ Paper Link:
 ## Working Papers
 
 + **Standing on the Shoulders of AI? Knowledge Creation by Learning from AI** (with H. Kang, N. Kim, and J. Kim)  
-*Revise and Resubmit*, 2025.
+*Revise and Resubmit*.
   <details>
   <summary>Abstract</summary>
     <blockquote>Knowledge is a crucial source of competitive advantage, innovation, and economic growth, but creating new knowledge can be difficult. We study whether and how the interaction between human professionals and artificial intelligence (AI) pushes the knowledge frontier. Studying this question is challenging because of the difficulty in measuring new knowledge and quantifying AI’s impact. We circumvent these issues by studying professional Go matches from 2003 through 2021. In 2017, the AI-powered Go program (APG) far surpassed the best human player, and professional players began learning from AI. Such human-AI interaction paved a new way to reassess historical Go knowledge and create new knowledge. We analyze every move in 69,974 games and find that, after APG, professional players significantly changed how they play (1) the first move and (2) the first invasion move in each quadrant. In addition, they adopted different sets of “standard patterns” (defined as a sequence of the first eight alternating moves) that set up the game in the early stage. However, new knowledge catalyzed by AI comes at the expense of higher concentration and reduced diversity of moves. Further, AI’s impact on knowledge creation is greater for highly skilled players; since AI does not explain, learning from AI requires the absorptive capacity of professionals. AI helps humans push the knowledge frontier, but its consequences for knowledge concentration and for differential learning by skill levels provide important implications for how best to seize the opportunities opened up by AI.</blockquote>
@@ -64,14 +64,14 @@ Paper Link:
     + (Top 5 out of 208 papers accepted from 337 submissions)
 
 + **It Ain’t Over ‘Til It’s Over: Post-IPO VC Ownership Effect on Innovation-Enhancing Investment of Newly Public Firms** (with T. Kim and H. Woo)  
-*Revise and Resubmit*, 2022.
+*Revise and Resubmit*.
   <details>
   <summary>Abstract</summary>
     <blockquote>Although the existing literature has discussed the effects of VC firms on investee ventures before and at the time of an IPO, less is known about how they influence the strategic decisions of newly public firms after the IPO. Conventional wisdom is that VC investors exit from a venture investment through an IPO. However, we find that VC investors hold a significant amount of shares for years after an IPO. This study examines how VC investors affect a firm after an IPO. Building on the literature on governance through ownership, we argue that post-IPO VC shareholders encourage innovation-enhancing investments of newly public firms and that post-IPO VC ownership positively affects the market value of newly public firms. Our underlying logic is that outcomes created by innovation-enhancing investments of newly public firms can be beneficial to not only themselves but also VC shareholders for VC reputation, network externality, and knowledge acquisition. Consistent with our arguments, our empirical study shows that post-IPO VC ownership is positively related to R&D intensity, CAPEX investment, and Tobin’s Q of newly public firms and that these relationships are amplified when a lead VC is located close to the firm, when a VC investor sits on the board, and when investees are in technology-intensive industries. This study expands the scope of the VC effect on investee ventures beyond an IPO.</blockquote>
   </details>  
 
 + **The Quantum Tortoise and the Classical Hare: A simple framework for understanding which problems quantum computing will accelerate (and which it won’t)** (with W. Moses and N. Thompson)  
-*Revise and Resubmit*, 2024.
+*Revise and Resubmit*.
 Paper Link:
 <span style="float:center"><a href="https://arxiv.org/pdf/2310.15505.pdf">Paper</a>
   + Online Appendix Link:
