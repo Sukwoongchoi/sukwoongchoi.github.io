@@ -91,7 +91,7 @@ Paper Link:
 
 ## Work-in-progress
 
-+ **How Does Competition Affect AI Investment in Firms? Evidence from a Quasi-Natural Experiment in the United States** (with T. Kim and G. Park)
++ **How Does Competition Affect AI Investment in Firms? Evidence from a Quasi-Natural Experiment in the United States** (with T. Kim, G. Park, and N.Kim)
 *Writing a Draft*
   + Winner of the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
 
@@ -99,5 +99,5 @@ Paper Link:
 *Data Analysis After Passing IRB Review*
   + **Grant**: Co-principal investigator, USC Marshall Institute for Outlier Research in Business Grant Program, “How Does AI Improve Human Decision-Making and Performance? Evidence from AI-powered X-ray Triage in University Hospitals” (with H. Kang and N. Kim) (2022-2023) ($19,400)
 
-+ **Algorithm Patents Collected and Unveiled** (with A. Choudhury and N. Thompson)  
++ **Algorithm Patents Collected and Unveiled** (with N. Thompson)  
 *Data Collection*
