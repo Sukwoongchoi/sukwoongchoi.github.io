@@ -16,7 +16,7 @@ sidebar:
 ## Peer-Reviewed Publications
 
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with H. Kang, N. Kim, and J. Kim)  
-*Strategic Management Journal, Published*, 2025. 
+*Strategic Management Journal, 2025. 
 Paper Link:
 <a href="/assets/papers/SSRN-id3893835.pdf">Paper</a>
   <details>
