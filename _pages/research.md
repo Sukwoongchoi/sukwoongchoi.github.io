@@ -16,7 +16,7 @@ sidebar:
 ## Peer-Reviewed Publications
 
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with H. Kang, N. Kim, and J. Kim)  
-*Strategic Management Journal, 2025. 
+*Strategic Management Journal*, 2025. 
 Paper Link:
 <a href="/assets/papers/SSRN-id3893835.pdf">Paper</a>
   <details>
@@ -74,14 +74,13 @@ Paper Link:
 *Revise and Resubmit*.
 Paper Link:
 <span style="float:center"><a href="https://arxiv.org/pdf/2310.15505.pdf">Paper</a>
-  + Online Appendix Link:
-<span style="float:center"><a href="/assets/papers/PIEEE_Supplementary_Material.pdf">Appendix</a>
-
   <details>
   <summary>Abstract</summary>
     <blockquote>Quantum computing promises transformational gains for solving some problems, but little to none for others. For anyone hoping to use quantum computers now or in the future, it is important to know which problems will benefit. In this paper, we answer this question by analyzing the relative strengths of classical and quantum computers. While classical computers operate faster, quantum computers can sometimes run more efficient algorithms. Whether the speed advantage or the algorithmic advantage dominates determines whether a problem will benefit from quantum computing or not. Our analysis reveals that many problems, particularly those of small to moderate size that can be important for typical businesses, will not benefit from quantum computing. Conversely, problems with exponential algorithmic gains, or polynomial gains and large problem sizes, will benefit from present quantum computing. Since exponential gains are rare in practice and theorized to be rare even in principle, our analysis suggests that the benefits from quantum computing will flow either to users of these rare cases, or practitioners processing very large data.</blockquote>
-  </details> 
-
+  </details>
+  
+  + Online Appendix Link:
+<span style="float:center"><a href="/assets/papers/PIEEE_Supplementary_Material.pdf">Appendix</a>
   + Media Cover: <a href="https://finance.yahoo.com/news/quantum-computing-better-business-120400361.html?guccounter=1">Yahoo Finance</a>, <a href="https://mitsloan.mit.edu/ideas-made-to-matter/quantum-computing-what-leaders-need-to-know-now?utm_source=mitsloanlinkedin&utm_medium=social&utm_campaign=quantumtortoise">MIT Sloan</a>, <a href="https://medium.com/mit-initiative-on-the-digital-economy/quantum-computings-sweet-spot-e6b6c22e24e7">MIT IDE Blog</a>
 
 + **Stay the Course? The Effects of Government Matching R&D Funding on Tech Startups** (with Y. Lee, T. Kim, and W. Kim)  
