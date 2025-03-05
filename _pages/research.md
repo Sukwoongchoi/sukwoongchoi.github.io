@@ -99,5 +99,5 @@ Paper Link:
 *Data Analysis After Passing IRB Review*
   + **Grant**: Co-principal investigator, USC Marshall Institute for Outlier Research in Business Grant Program, “How Does AI Improve Human Decision-Making and Performance? Evidence from AI-powered X-ray Triage in University Hospitals” (with H. Kang and N. Kim) (2022-2023) ($19,400)
 
-+ **Algorithm Patents Collected and Unveiled** (with N. Thompson)  
++ **Algorithm Patents** (with N. Thompson)  
 *Data Collection*
