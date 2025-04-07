@@ -15,6 +15,16 @@ sidebar:
 
 ## Peer-Reviewed Publications
 
++ **The Dual Edges of AI: Advancing Knowledge While Reducing Diversity** (with H. Kang, N. Kim, and J. Kim)  
+*PNAS NEXUS*, Accepted, 2025.
+  <details>
+  <summary>Abstract</summary>
+    <blockquote>We study how the interaction between human professionals and artificial intelligence (AI) in advancing knowledge, using professional Go matches from 2003 to 2021. In 2017, an AI-powered Go program (APG) far surpassed the best human player, and professional players began learning from AI. Such human-AI interaction paved a new way to reassess historical Go knowledge and create new knowledge. We analyze standard patterns (defined as a sequence of the first eight alternating moves) in 15,023,212 moves by 1,714 players in 69,996 professional Go games and find that, after APG, professional players significantly changed how they adopted different sets of moves. However, new knowledge catalyzed by AI comes at the expense of a reduced diversity in moves. Further, AI’s impact on knowledge creation is greater for highly skilled players; since AI does not explain, learning from AI requires the absorptive capacity of the top professionals.</blockquote>
+  </details>  
+  
+  + Finalist for the Best Paper of the 2023 Conference on Information Systems and Technology (CIST)
+    + (Top 5 out of 208 papers accepted from 337 submissions)
+
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with H. Kang, N. Kim, and J. Kim)  
 *Strategic Management Journal*, 2025. 
 Paper Link:
@@ -53,15 +63,7 @@ Paper Link:
 
 ## Working Papers
 
-+ **Standing on the Shoulders of AI? Knowledge Creation by Learning from AI** (with H. Kang, N. Kim, and J. Kim)  
-*Revise and Resubmit*.
-  <details>
-  <summary>Abstract</summary>
-    <blockquote>Knowledge is a crucial source of competitive advantage, innovation, and economic growth, but creating new knowledge can be difficult. We study whether and how the interaction between human professionals and artificial intelligence (AI) pushes the knowledge frontier. Studying this question is challenging because of the difficulty in measuring new knowledge and quantifying AI’s impact. We circumvent these issues by studying professional Go matches from 2003 through 2021. In 2017, the AI-powered Go program (APG) far surpassed the best human player, and professional players began learning from AI. Such human-AI interaction paved a new way to reassess historical Go knowledge and create new knowledge. We analyze every move in 69,974 games and find that, after APG, professional players significantly changed how they play (1) the first move and (2) the first invasion move in each quadrant. In addition, they adopted different sets of “standard patterns” (defined as a sequence of the first eight alternating moves) that set up the game in the early stage. However, new knowledge catalyzed by AI comes at the expense of higher concentration and reduced diversity of moves. Further, AI’s impact on knowledge creation is greater for highly skilled players; since AI does not explain, learning from AI requires the absorptive capacity of professionals. AI helps humans push the knowledge frontier, but its consequences for knowledge concentration and for differential learning by skill levels provide important implications for how best to seize the opportunities opened up by AI.</blockquote>
-  </details>  
-  
-  + Finalist for the Best Paper of the 2023 Conference on Information Systems and Technology (CIST)
-    + (Top 5 out of 208 papers accepted from 337 submissions)
+
 
 + **It Ain’t Over ‘Til It’s Over: Post-IPO VC Ownership Effect on Innovation-Enhancing Investment of Newly Public Firms** (with T. Kim and H. Woo)  
 *Revise and Resubmit*.
