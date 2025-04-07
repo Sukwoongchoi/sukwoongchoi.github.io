@@ -16,7 +16,7 @@ sidebar:
 ## Peer-Reviewed Publications
 
 + **The Dual Edges of AI: Advancing Knowledge While Reducing Diversity** (with H. Kang, N. Kim, and J. Kim)  
-*PNAS NEXUS*, Accepted, 2025.
+*PNAS NEXUS*, Accepted.
   <details>
   <summary>Abstract</summary>
     <blockquote>We study how the interaction between human professionals and artificial intelligence (AI) in advancing knowledge, using professional Go matches from 2003 to 2021. In 2017, an AI-powered Go program (APG) far surpassed the best human player, and professional players began learning from AI. Such human-AI interaction paved a new way to reassess historical Go knowledge and create new knowledge. We analyze standard patterns (defined as a sequence of the first eight alternating moves) in 15,023,212 moves by 1,714 players in 69,996 professional Go games and find that, after APG, professional players significantly changed how they adopted different sets of moves. However, new knowledge catalyzed by AI comes at the expense of a reduced diversity in moves. Further, AI’s impact on knowledge creation is greater for highly skilled players; since AI does not explain, learning from AI requires the absorptive capacity of the top professionals.</blockquote>
