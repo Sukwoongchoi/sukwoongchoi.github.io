@@ -12,6 +12,9 @@ sidebar:
 
 + **Analytics and Visualization**, *Instructor*  
 (Graduate Course at Massry School of Business)
+  + Spring 2025
+      + Session A: Instructor Rating 4.9/5
+      + Session B: Instructor Rating 4.6/5 
   + Spring 2024, Instructor Rating 4.8/5
 
 + **Topics in Business Analytics**, *Instructor*  
