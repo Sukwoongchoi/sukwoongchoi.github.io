@@ -15,6 +15,19 @@ sidebar:
 
 ## Peer-Reviewed Publications
 
++ **The Quantum Tortoise and the Classical Hare: When Will Quantum Computers Outpace Classical Ones and When Will They Be Left Behind?** (with W. Moses and N. Thompson)  
+*Proceedings of the IEEE, Accepted*.
+Paper Link:
+<span style="float:center"><a href="https://arxiv.org/pdf/2310.15505.pdf">Paper</a>
+  <details>
+  <summary>Abstract</summary>
+    <blockquote>Quantum computing promises transformational gains for solving some problems, but little to none for others. For anyone hoping to use quantum computers now or in the future, it is important to know which problems will benefit. In this paper, we introduce a framework for answering this question both intuitively and quantitatively. The underlying structure of the framework is a race between quantum and classical computers, where their relative strengths determine when each wins. While classical computers operate faster, quantum computers can sometimes run more efficient algorithms. Whether the speed advantage or the algorithmic advantage dominates determines whether a problem will benefit from quantum computing or not. Our analysis reveals that many problems, particularly those of small to moderate size that can be important for typical businesses, will not benefit from quantum computing. Conversely, larger problems or those with particularly big algorithmic gains will benefit from near-term quantum computing. Since very large algorithmic gains are rare in practice and theorized to be rare even in principle, our analysis suggests that the benefits from quantum computing will flow either to users of these rare cases, or practitioners processing very large data.</blockquote>
+  </details>
+  
+  + Online Appendix Link:
+<span style="float:center"><a href="/assets/papers/PIEEE_Supplementary_Material.pdf">Appendix</a>
+  + Media Cover: <a href="https://finance.yahoo.com/news/quantum-computing-better-business-120400361.html?guccounter=1">Yahoo Finance</a>, <a href="https://mitsloan.mit.edu/ideas-made-to-matter/quantum-computing-what-leaders-need-to-know-now?utm_source=mitsloanlinkedin&utm_medium=social&utm_campaign=quantumtortoise">MIT Sloan</a>, <a href="https://medium.com/mit-initiative-on-the-digital-economy/quantum-computings-sweet-spot-e6b6c22e24e7">MIT IDE Blog</a>
+
 + **The Dual Edges of AI: Advancing Knowledge While Reducing Diversity** (with H. Kang, N. Kim, and J. Kim)  
 *PNAS NEXUS*, 2025.
 Paper Link:
@@ -65,27 +78,12 @@ Paper Link:
 
 ## Working Papers
 
-
-
 + **It Ain’t Over ‘Til It’s Over: Post-IPO VC Ownership Effect on Innovation-Enhancing Investment of Newly Public Firms** (with T. Kim and H. Woo)  
 *Revise and Resubmit*.
   <details>
   <summary>Abstract</summary>
     <blockquote>Although the existing literature has discussed the effects of VC firms on investee ventures before and at the time of an IPO, less is known about how they influence the strategic decisions of newly public firms after the IPO. Conventional wisdom is that VC investors exit from a venture investment through an IPO. However, we find that VC investors hold a significant amount of shares for years after an IPO. This study examines how VC investors affect a firm after an IPO. Building on the literature on governance through ownership, we argue that post-IPO VC shareholders encourage innovation-enhancing investments of newly public firms and that post-IPO VC ownership positively affects the market value of newly public firms. Our underlying logic is that outcomes created by innovation-enhancing investments of newly public firms can be beneficial to not only themselves but also VC shareholders for VC reputation, network externality, and knowledge acquisition. Consistent with our arguments, our empirical study shows that post-IPO VC ownership is positively related to R&D intensity, CAPEX investment, and Tobin’s Q of newly public firms and that these relationships are amplified when a lead VC is located close to the firm, when a VC investor sits on the board, and when investees are in technology-intensive industries. This study expands the scope of the VC effect on investee ventures beyond an IPO.</blockquote>
   </details>  
-
-+ **The Quantum Tortoise and the Classical Hare: A simple framework for understanding which problems quantum computing will accelerate (and which it won’t)** (with W. Moses and N. Thompson)  
-*Revise and Resubmit*.
-Paper Link:
-<span style="float:center"><a href="https://arxiv.org/pdf/2310.15505.pdf">Paper</a>
-  <details>
-  <summary>Abstract</summary>
-    <blockquote>Quantum computing promises transformational gains for solving some problems, but little to none for others. For anyone hoping to use quantum computers now or in the future, it is important to know which problems will benefit. In this paper, we answer this question by analyzing the relative strengths of classical and quantum computers. While classical computers operate faster, quantum computers can sometimes run more efficient algorithms. Whether the speed advantage or the algorithmic advantage dominates determines whether a problem will benefit from quantum computing or not. Our analysis reveals that many problems, particularly those of small to moderate size that can be important for typical businesses, will not benefit from quantum computing. Conversely, problems with exponential algorithmic gains, or polynomial gains and large problem sizes, will benefit from present quantum computing. Since exponential gains are rare in practice and theorized to be rare even in principle, our analysis suggests that the benefits from quantum computing will flow either to users of these rare cases, or practitioners processing very large data.</blockquote>
-  </details>
-  
-  + Online Appendix Link:
-<span style="float:center"><a href="/assets/papers/PIEEE_Supplementary_Material.pdf">Appendix</a>
-  + Media Cover: <a href="https://finance.yahoo.com/news/quantum-computing-better-business-120400361.html?guccounter=1">Yahoo Finance</a>, <a href="https://mitsloan.mit.edu/ideas-made-to-matter/quantum-computing-what-leaders-need-to-know-now?utm_source=mitsloanlinkedin&utm_medium=social&utm_campaign=quantumtortoise">MIT Sloan</a>, <a href="https://medium.com/mit-initiative-on-the-digital-economy/quantum-computings-sweet-spot-e6b6c22e24e7">MIT IDE Blog</a>
 
 + **Stay the Course? The Effects of Government Matching R&D Funding on Tech Startups** (with Y. Lee, T. Kim, and W. Kim)  
   <details>
