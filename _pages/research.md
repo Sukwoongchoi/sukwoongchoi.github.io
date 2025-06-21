@@ -16,7 +16,7 @@ sidebar:
 ## Peer-Reviewed Publications
 
 + **The Quantum Tortoise and the Classical Hare: When Will Quantum Computers Outpace Classical Ones and When Will They Be Left Behind?** (with W. Moses and N. Thompson)  
-*Proceedings of the IEEE, Accepted*.
+*Proceedings of the IEEE, 2025*.
 Paper Link:
 <span style="float:center"><a href="https://arxiv.org/pdf/2310.15505.pdf">Paper</a>
   <details>
