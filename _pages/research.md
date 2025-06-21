@@ -18,7 +18,7 @@ sidebar:
 + **The Quantum Tortoise and the Classical Hare: When Will Quantum Computers Outpace Classical Ones and When Will They Be Left Behind?** (with W. Moses and N. Thompson)  
 *Proceedings of the IEEE, 2025*.
 Paper Link:
-<span style="float:center"><a href="https://arxiv.org/pdf/2310.15505.pdf">Paper</a>
+<span style="float:center"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11045206">Paper</a>
   <details>
   <summary>Abstract</summary>
     <blockquote>Quantum computing promises transformational gains for solving some problems, but little to none for others. For anyone hoping to use quantum computers now or in the future, it is important to know which problems will benefit. In this paper, we introduce a framework for answering this question both intuitively and quantitatively. The underlying structure of the framework is a race between quantum and classical computers, where their relative strengths determine when each wins. While classical computers operate faster, quantum computers can sometimes run more efficient algorithms. Whether the speed advantage or the algorithmic advantage dominates determines whether a problem will benefit from quantum computing or not. Our analysis reveals that many problems, particularly those of small to moderate size that can be important for typical businesses, will not benefit from quantum computing. Conversely, larger problems or those with particularly big algorithmic gains will benefit from near-term quantum computing. Since very large algorithmic gains are rare in practice and theorized to be rare even in principle, our analysis suggests that the benefits from quantum computing will flow either to users of these rare cases, or practitioners processing very large data.</blockquote>
