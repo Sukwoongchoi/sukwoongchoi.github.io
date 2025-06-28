@@ -26,6 +26,7 @@ Paper Link:
   
   + Finalist for the Best Paper of the 2023 Conference on Information Systems and Technology (CIST)
     + (Top 5 out of 208 papers accepted from 337 submissions)
+  + Media Cover: <a href="https://medium.com/mit-initiative-on-the-digital-economy/ai-the-game-of-go-and-the-connection-between-knowledge-and-innovation-1dc6f0704025">MIT IDE Blog</a>
 
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program** (with H. Kang, N. Kim, and J. Kim)  
 *Strategic Management Journal*, 2025. 
