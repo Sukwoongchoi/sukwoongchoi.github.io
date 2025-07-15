@@ -15,6 +15,20 @@ sidebar:
 
 ## Peer-Reviewed Publications
 
++ **The Quantum Tortoise and the Classical Hare: When Will Quantum Computers Outpace Classical Ones and When Will They Be Left Behind?** (with W. Moses and N. Thompson)  
+*Proceedings of the IEEE, 2025*.
+Paper Link:
+<span style="float:center"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11045206">Paper</a>
+  <details>
+  <summary>Abstract</summary>
+    <blockquote>Quantum computing promises transformational gains for solving some problems, but little to none for others. For anyone hoping to use quantum computers now or in the future, it is important to know which problems will benefit. In this paper, we introduce a framework for answering this question both intuitively and quantitatively. The underlying structure of the framework is a race between quantum and classical computers, where their relative strengths determine when each wins. While classical computers operate faster, quantum computers can sometimes run more efficient algorithms. Whether the speed advantage or the algorithmic advantage dominates determines whether a problem will benefit from quantum computing or not. Our analysis reveals that many problems, particularly those of small to moderate size that can be important for typical businesses, will not benefit from quantum computing. Conversely, larger problems or those with particularly big algorithmic gains will benefit from near-term quantum computing. Since very large algorithmic gains are rare in practice and theorized to be rare even in principle, our analysis suggests that the benefits from quantum computing will flow either to users of these rare cases, or practitioners processing very large data.</blockquote>
+  </details>
+  
+  + Online Appendix Link:
+<span style="float:center"><a href="/assets/papers/PIEEE_Supplementary_Material.pdf">Appendix</a>
+  + Media Cover: <a href="https://finance.yahoo.com/news/quantum-computing-better-business-120400361.html?guccounter=1">Yahoo Finance</a>, <a href="https://mitsloan.mit.edu/ideas-made-to-matter/quantum-computing-what-leaders-need-to-know-now?utm_source=mitsloanlinkedin&utm_medium=social&utm_campaign=quantumtortoise">MIT Sloan</a>, <a href="https://medium.com/mit-initiative-on-the-digital-economy/quantum-computings-sweet-spot-e6b6c22e24e7">MIT IDE Blog</a>
+
+
 + **The Dual Edges of AI: Advancing Knowledge While Reducing Diversity** (with H. Kang, N. Kim, and J. Kim)  
 *PNAS NEXUS*, 2025.
 Paper Link:
@@ -41,18 +55,6 @@ Paper Link:
   + Media Cover: <a href="https://medium.com/mit-initiative-on-the-digital-economy/how-ai-can-improve-human-decision-making-f70964659aae">MIT IDE Blog</a>, <a href="https://docs.google.com/presentation/d/1bwJDRC777rAf00Drthi9yT2c9b0MabWO5ZlksfvFzx8/edit#slide=id.gedaf89a37f_1_0">State of AI Report 2021</a>, <a href="https://www.chosun.com/sports/sports_general/2021/10/26/7TN3Y4MZCZCVNAQSCDRAXT7SJI/">The Chosun Ilbo</a> (<a href="https://en.wikipedia.org/wiki/The_Chosun_Ilbo">Leading Korean Daily Newspaper</a>), <a href="https://www.albany.edu/business/news/2025-ai-shapes-human-decision-making-go">University at Albany Research</a>
   + Twitter: This paper has gained more than 5,000 likes and 1,000 retweets. Credits to <a href="https://twitter.com/emollick/status/1508651631151362050">Ethan Mollick</a>.
 
-+ **The Quantum Tortoise and the Classical Hare: When Will Quantum Computers Outpace Classical Ones and When Will They Be Left Behind?** (with W. Moses and N. Thompson)  
-*Proceedings of the IEEE, 2025*.
-Paper Link:
-<span style="float:center"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11045206">Paper</a>
-  <details>
-  <summary>Abstract</summary>
-    <blockquote>Quantum computing promises transformational gains for solving some problems, but little to none for others. For anyone hoping to use quantum computers now or in the future, it is important to know which problems will benefit. In this paper, we introduce a framework for answering this question both intuitively and quantitatively. The underlying structure of the framework is a race between quantum and classical computers, where their relative strengths determine when each wins. While classical computers operate faster, quantum computers can sometimes run more efficient algorithms. Whether the speed advantage or the algorithmic advantage dominates determines whether a problem will benefit from quantum computing or not. Our analysis reveals that many problems, particularly those of small to moderate size that can be important for typical businesses, will not benefit from quantum computing. Conversely, larger problems or those with particularly big algorithmic gains will benefit from near-term quantum computing. Since very large algorithmic gains are rare in practice and theorized to be rare even in principle, our analysis suggests that the benefits from quantum computing will flow either to users of these rare cases, or practitioners processing very large data.</blockquote>
-  </details>
-  
-  + Online Appendix Link:
-<span style="float:center"><a href="/assets/papers/PIEEE_Supplementary_Material.pdf">Appendix</a>
-  + Media Cover: <a href="https://finance.yahoo.com/news/quantum-computing-better-business-120400361.html?guccounter=1">Yahoo Finance</a>, <a href="https://mitsloan.mit.edu/ideas-made-to-matter/quantum-computing-what-leaders-need-to-know-now?utm_source=mitsloanlinkedin&utm_medium=social&utm_campaign=quantumtortoise">MIT Sloan</a>, <a href="https://medium.com/mit-initiative-on-the-digital-economy/quantum-computings-sweet-spot-e6b6c22e24e7">MIT IDE Blog</a>
 
 + **Practical Quantum Computing is about More Than Just Hardware** (with N. Thompson, P. Shukla, and C. Dukatz)  
 *California Management Review*, 2024.
