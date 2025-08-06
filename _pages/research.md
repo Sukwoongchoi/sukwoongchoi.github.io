@@ -26,7 +26,7 @@ Paper Link:
   
   + Online Appendix Link:
 <span style="float:center"><a href="/assets/papers/PIEEE_Supplementary_Material.pdf">Appendix</a>
-  + Media Cover: <a href="https://www.information-age.com/new-mit-framework-helps-firms-determine-quantum-value-123508011/">Information Age</a>,  <a href="https://finance.yahoo.com/news/quantum-computing-better-business-120400361.html?guccounter=1">Yahoo Finance</a>, <a href="https://mitsloan.mit.edu/ideas-made-to-matter/quantum-computing-what-leaders-need-to-know-now?utm_source=mitsloanlinkedin&utm_medium=social&utm_campaign=quantumtortoise">MIT Sloan</a>, <a href="https://medium.com/mit-initiative-on-the-digital-economy/quantum-computings-sweet-spot-e6b6c22e24e7">MIT IDE Blog</a>
+  + Media Cover: <a href="https://www.information-age.com/new-mit-framework-helps-firms-determine-quantum-value-123508011/">Information Age</a>,  <a href="https://finance.yahoo.com/news/quantum-computing-better-business-120400361.html?guccounter=1">Yahoo Finance</a>, <a href="https://www.psaudio.com/blogs/copper/quantum-technology-and-the-future-of-music-and-audio?mc_cid=14664c893c&mc_eid=56c5a5b7a7">Copper Magazine</a>, <a href="https://mitsloan.mit.edu/ideas-made-to-matter/quantum-computing-what-leaders-need-to-know-now?utm_source=mitsloanlinkedin&utm_medium=social&utm_campaign=quantumtortoise">MIT Sloan</a>, <a href="https://medium.com/mit-initiative-on-the-digital-economy/quantum-computings-sweet-spot-e6b6c22e24e7">MIT IDE Blog</a>
 
 
 + **The Dual Edges of AI: Advancing Knowledge While Reducing Diversity** (with H. Kang, N. Kim, and J. Kim)  
