@@ -81,24 +81,14 @@ Paper Link:
 
 ## Working Papers
 
-+ **It Ain’t Over ‘Til It’s Over: Post-IPO VC Ownership Effect on Innovation-Enhancing Investment of Newly Public Firms** (with T. Kim and H. Woo)  
-*Revise and Resubmit*.
-  <details>
-  <summary>Abstract</summary>
-    <blockquote>Although the existing literature has discussed the effects of VC firms on investee ventures before and at the time of an IPO, less is known about how they influence the strategic decisions of newly public firms after the IPO. Conventional wisdom is that VC investors exit from a venture investment through an IPO. However, we find that VC investors hold a significant amount of shares for years after an IPO. This study examines how VC investors affect a firm after an IPO. Building on the literature on governance through ownership, we argue that post-IPO VC shareholders encourage innovation-enhancing investments of newly public firms and that post-IPO VC ownership positively affects the market value of newly public firms. Our underlying logic is that outcomes created by innovation-enhancing investments of newly public firms can be beneficial to not only themselves but also VC shareholders for VC reputation, network externality, and knowledge acquisition. Consistent with our arguments, our empirical study shows that post-IPO VC ownership is positively related to R&D intensity, CAPEX investment, and Tobin’s Q of newly public firms and that these relationships are amplified when a lead VC is located close to the firm, when a VC investor sits on the board, and when investees are in technology-intensive industries. This study expands the scope of the VC effect on investee ventures beyond an IPO.</blockquote>
-  </details>  
++ **VC Ownership and Newly Public Firms' Innovation (Revise and Resubmit)** (with T. Kim and H. Woo)  
 
-+ **Stay the Course? The Effects of Government Matching R&D Funding on Tech Startups** (with Y. Lee, T. Kim, and W. Kim)  
-  <details>
-  <summary>Abstract</summary>
-    <blockquote>This study examines the effectiveness of a government-matched R&D subsidy program for startups, which leverages the selection capabilities of private venture capital firms in awarding funds. Using a regression discontinuity design and a combination of confidential and hand-collected data, we assess the program's impact on follow-up investments, R&D investment, and patenting activities in funded startups. Our findings reveal that startups benefiting from the matching R&D subsidy program secure more subsequent investments (3.3 times), R&D investment (14.1%), and patenting activities (13.7%) compared to non-funded peers, highlighting the potential of government-matched R&D funding programs that engage private sector expertise in the selection process to drive growth and innovation. Through a survey of awardees and non-awardees, we identify underlying mechanisms, including that funded startups were more likely to adhere to their business models and strategic planning, adopt new technologies, and implement performance-based human resource management practices. These insights can inform policymaking on strategies to foster innovation in the startup ecosystem.</blockquote>
-  </details>  
++ **Competition and Firm innovation (Under Review)** (with T. Kim, G. Park, and N.Kim)
+  + Winner of the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
 
 ## Work-in-progress
-
-+ **How Does Competition Affect AI Investment in Firms? Evidence from a Quasi-Natural Experiment in the United States** (with T. Kim, G. Park, and N.Kim)
-*Writing a Draft*
-  + Winner of the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
++ **Breaking Digitial Addition in the Age of AI: The Roles of Reward Sensitivity, Goal Setting, and Incentives** (with J. Kuem) 
+*Data Analysis*
 
 + **How Does AI Improve Human Collaboration and Performance? Evidence from AI-powered X-ray Triage in University Hospitals** (with H. Kang and N. Kim)   
 *Data Analysis After Passing IRB Review*
