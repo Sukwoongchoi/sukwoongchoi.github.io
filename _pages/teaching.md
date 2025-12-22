@@ -23,11 +23,13 @@ sidebar:
 
 + **Open Source Intelligence and Social Network Analysis**, *Instructor*     
 (Graduate Course at Massry School of Business)
+  + Fall 2025, Instructor Rating 4.8/5
   + Fall 2024, Instructor Rating 4.8/5
   + Fall 2023, Instructor Rating 4.5/5
 
 + **Mathematical Methods for Information Security**, *Instructor*     
 (Graduate Course at Massry School of Business)
+  + Fall 2025, Instructor Rating 4.7/5
   + Fall 2024, Instructor Rating 4.7/5
   + Fall 2023, Instructor Rating 4.7/5
 
