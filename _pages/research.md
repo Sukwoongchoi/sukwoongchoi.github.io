@@ -81,9 +81,11 @@ Paper Link:
 
 ## Working Papers
 
-+ **VC Ownership and Innovation in Newly Public Firms (Revise and Resubmit)** (with T. Kim and H. Woo)  
++ **VC Ownership and Innovation in Newly Public Firms (Revise and Resubmit)** (with T. Kim and H. Woo)
 
-+ **Competition and Firm innovation (Under Review)** (with T. Kim, G. Park, and N.Kim)
++ **Cyberloafing and Proactive Outcomes (Revise and Resubmit)** (with J. Kuem)  
+
++ **Competition and Firm innovation** (with T. Kim, G. Park, and N.Kim)
   + Winner of the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
 
 ## Work-in-progress
