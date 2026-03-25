@@ -88,6 +88,10 @@ Paper Link:
 + **Competition and Firm innovation** (with T. Kim, G. Park, and N.Kim)
   + Winner of the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
 
++ **AI and Cybersecurity**
+
++ **AI and Managers** (with N.Kim)
+
 ## Work-in-progress
 + **Breaking Digitial Addition in the Age of AI: The Roles of Reward Sensitivity, Goal Setting, and Incentives** (with J. Kuem) 
 *Data Analysis*
@@ -98,3 +102,6 @@ Paper Link:
 
 + **Algorithm Patents** (with N. Thompson)  
 *Data Collection*
+
++ **AI agents** (with N.Kim)
+*Writing a draft*
