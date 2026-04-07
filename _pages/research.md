@@ -85,14 +85,19 @@ Paper Link:
 
 + **Cyberloafing and Proactive Outcomes (Revise and Resubmit)** (with J. Kuem)  
 
-+ **Competition and Firm innovation** (with T. Kim, G. Park, and N.Kim)
-  + Winner of the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
-
++ **AI and Scientific Research Direction (Under Review)** (with M. Sun and Y. Yin)
+  
 + **AI and Cybersecurity**
-
+  
++ **Competition and AI Investment** (with T. Kim, G. Park, and N.Kim)
+  + Winner of the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
+    
 + **AI and Managers** (with N.Kim)
 
 ## Work-in-progress
++ **AI agents** (with N.Kim)
+*Writing a draft*
+
 + **Breaking Digitial Addition in the Age of AI: The Roles of Reward Sensitivity, Goal Setting, and Incentives** (with J. Kuem) 
 *Data Analysis*
 
@@ -103,5 +108,3 @@ Paper Link:
 + **Algorithm Patents** (with N. Thompson)  
 *Data Collection*
 
-+ **AI agents** (with N.Kim)
-*Writing a draft*
