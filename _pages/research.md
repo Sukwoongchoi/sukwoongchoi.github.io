@@ -98,7 +98,7 @@ Paper Link:
 + **AI agents** (with N.Kim)
 *Writing a draft*
 
-+ **Breaking Digitial Addition in the Age of AI: The Roles of Reward Sensitivity, Goal Setting, and Incentives** (with J. Kuem) 
++ **Breaking Digital Addition in the Age of AI: The Roles of Reward Sensitivity, Goal Setting, and Incentives** (with J. Kuem) 
 *Data Analysis*
 
 + **How Does AI Improve Human Collaboration and Performance? Evidence from AI-powered X-ray Triage in University Hospitals** (with H. Kang and N. Kim)   
