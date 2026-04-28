@@ -83,27 +83,28 @@ Paper Link:
 
 + **VC Ownership and Innovation in Newly Public Firms (Revise and Resubmit)** (with T. Kim and H. Woo)
 
-+ **Cyberloafing and Proactive Outcomes (Revise and Resubmit)** (with J. Kuem)  
++ **Cyberloafing and Proactive Outcomes (Under Review)** (with J. Kuem)  
 
 + **AI and Scientific Research Direction (Under Review)** (with M. Sun and Y. Yin)
+
++ **AI and Collaboration in University Hospitals (Unver Review)** (with H. Kang, H. Shin, E. Kim, and N. Kim)
   
+  + **Grant**: Co-principal investigator, USC Marshall Institute for Outlier Research in Business Grant Program, “How Does AI Improve Human Decision-Making and Performance? Evidence from AI-powered X-ray Triage in University Hospitals” (with H. Kang and N. Kim) (2022-2023) ($19,400)
+    
 + **AI and Cybersecurity (Under Review)**
-  
+
 + **Competition and AI Investment** (with T. Kim, G. Park, and N.Kim)
   + Winner of the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
     
 + **AI and Managers** (with N.Kim)
 
 ## Work-in-progress
+
 + **AI agents** (with N.Kim)
 *Writing a draft*
 
 + **Breaking Digital Addition in the Age of AI: The Roles of Reward Sensitivity, Goal Setting, and Incentives** (with J. Kuem) 
 *Data Analysis*
-
-+ **How Does AI Improve Human Collaboration and Performance? Evidence from AI-powered X-ray Triage in University Hospitals** (with H. Kang and N. Kim)   
-*Data Analysis After Passing IRB Review*
-  + **Grant**: Co-principal investigator, USC Marshall Institute for Outlier Research in Business Grant Program, “How Does AI Improve Human Decision-Making and Performance? Evidence from AI-powered X-ray Triage in University Hospitals” (with H. Kang and N. Kim) (2022-2023) ($19,400)
 
 + **Algorithm Patents** (with N. Thompson)  
 *Data Collection*
