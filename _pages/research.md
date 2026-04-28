@@ -87,7 +87,7 @@ Paper Link:
 
 + **AI and Scientific Research Direction (Under Review)** (with M. Sun and Y. Yin)
   
-+ **AI and Cybersecurity**
++ **AI and Cybersecurity (Under Review)**
   
 + **Competition and AI Investment** (with T. Kim, G. Park, and N.Kim)
   + Winner of the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
