@@ -21,11 +21,7 @@ sidebar:
 + **Research Seminar in Information Systems and Business Analytics**, *Instructor*  
 (Graduate Course at Massry School of Business)
   + Spring 2026, Instructor Rating 4.7/5
-    
-+ **Topics in Business Analytics**, *Instructor*  
-(Undergraduate Course at Massry School of Business)
-  + Spring 2024, Instructor Rating 4.2/5
-
+  
 + **Open Source Intelligence and Social Network Analysis**, *Instructor*     
 (Graduate Course at Massry School of Business)
   + Fall 2025, Instructor Rating 4.8/5
@@ -38,7 +34,9 @@ sidebar:
   + Fall 2024, Instructor Rating 4.7/5
   + Fall 2023, Instructor Rating 4.7/5
 
-
++ **Topics in Business Analytics**, *Instructor*  
+(Undergraduate Course at Massry School of Business)
+  + Spring 2024, Instructor Rating 4.2/5
 
 
 ## University of Kentucky
