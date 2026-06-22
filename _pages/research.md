@@ -83,6 +83,9 @@ Paper Link:
 
 + **VC Ownership and Innovation in Newly Public Firms** (with T. Kim and H. Woo)
 
++ **Competition and AI Investment** (with T. Kim, G. Park, and N.Kim)
+  + Winner of the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
+
 + **Cyberloafing and Proactive Outcomes (Revise and Resubmit)** (with J. Kuem)  
 
 + **AI and Scientific Research Direction (Under Review)** (with M. Sun and Y. Yin)
@@ -93,15 +96,11 @@ Paper Link:
     
 + **AI and Cybersecurity (Under Review)**
 
-+ **Competition and AI Investment** (with T. Kim, G. Park, and N.Kim)
-  + Winner of the Best Paper Award in the Korean Society for Innovation Management and Economics (KOSIME) Summer Conference 2024
-    
 + **AI and Managers** (with N.Kim)
 
-## Work-in-progress
-
 + **AI agents** (with N.Kim)
-*Writing a draft*
+
+## Work-in-progress
 
 + **Breaking Digital Addition in the Age of AI: The Roles of Reward Sensitivity, Goal Setting, and Incentives** (with J. Kuem) 
 *Data Analysis*
