@@ -81,9 +81,9 @@ Paper Link:
 
 ## Working Papers
 
-+ **VC Ownership and Innovation in Newly Public Firms (Revise and Resubmit)** (with T. Kim and H. Woo)
++ **VC Ownership and Innovation in Newly Public Firms** (with T. Kim and H. Woo)
 
-+ **Cyberloafing and Proactive Outcomes (Under Review)** (with J. Kuem)  
++ **Cyberloafing and Proactive Outcomes (Revise and Resubmit)** (with J. Kuem)  
 
 + **AI and Scientific Research Direction (Under Review)** (with M. Sun and Y. Yin)
 
